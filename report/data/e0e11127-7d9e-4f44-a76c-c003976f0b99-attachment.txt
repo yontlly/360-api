@@ -1,0 +1,1 @@
+"{\n \"media\": \"/Users/liuchengxu/study/picture/python-test.jpg\"\n}"

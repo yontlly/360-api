@@ -1,0 +1,114 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": [
+        {
+            "account": "piliangchuangjianyonghu1",
+            "name": "批量创建用户1",
+            "enName": "",
+            "gender": "1",
+            "sign": "任重⽽道远",
+            "email": "",
+            "avatar": "5ffd59a0ee9eac071257a878",
+            "tel": "0215553222",
+            "mobile": "13012344321",
+            "status": "1",
+            "deptData": [
+                {
+                    "did": "268630600",
+                    "name": "上海研发部",
+                    "desp": "",
+                    "pid": "0",
+                    "order": "0",
+                    "has_child": "false",
+                    "sourceDid": ""
+                }
+            ],
+            "roleId": "30",
+            "staffId": "",
+            "posData": [
+                {
+                    "did": "268630600",
+                    "posId": "216",
+                    "order": "0",
+                    "posName": "boss"
+                }
+            ],
+            "userid": "1917616998513413",
+            "extattr": [],
+            "avatarUrl": ""
+        },
+        {
+            "account": "piliangchuangjianyonghu2",
+            "name": "批量创建用户2",
+            "enName": "",
+            "gender": "1",
+            "sign": "任重⽽道远",
+            "email": "",
+            "avatar": "5ffd59a0ee9eac071257a878",
+            "tel": "0215553223",
+            "mobile": "13012344321",
+            "status": "1",
+            "deptData": [
+                {
+                    "did": "268630600",
+                    "name": "上海研发部",
+                    "desp": "",
+                    "pid": "0",
+                    "order": "0",
+                    "has_child": "false",
+                    "sourceDid": ""
+                }
+            ],
+            "roleId": "30",
+            "staffId": "",
+            "posData": [
+                {
+                    "did": "268630600",
+                    "posId": "217",
+                    "order": "0",
+                    "posName": "总监"
+                }
+            ],
+            "userid": "1917616998513414",
+            "extattr": [],
+            "avatarUrl": ""
+        },
+        {
+            "account": "piliangchuangjianyonghu3",
+            "name": "批量创建用户3",
+            "enName": "",
+            "gender": "1",
+            "sign": "任重⽽道远",
+            "email": "",
+            "avatar": "5ffd59a0ee9eac071257a878",
+            "tel": "0215553224",
+            "mobile": "13012344321",
+            "status": "1",
+            "deptData": [
+                {
+                    "did": "268630600",
+                    "name": "上海研发部",
+                    "desp": "",
+                    "pid": "0",
+                    "order": "0",
+                    "has_child": "false",
+                    "sourceDid": ""
+                }
+            ],
+            "roleId": "30",
+            "staffId": "",
+            "posData": [
+                {
+                    "did": "268630600",
+                    "posId": "218",
+                    "order": "0",
+                    "posName": "经理"
+                }
+            ],
+            "userid": "1917616998513415",
+            "extattr": [],
+            "avatarUrl": ""
+        }
+    ]
+}

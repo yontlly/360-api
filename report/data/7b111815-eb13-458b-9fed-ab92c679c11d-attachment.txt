@@ -1,0 +1,7 @@
+{
+    "trans_id": "null",
+    "master_token": "null",
+    "cn_name": "pytest",
+    "admin_name": "admin",
+    "max_user_num": "100"
+}

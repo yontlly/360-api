@@ -26,10 +26,9 @@ def run():
         shutil.rmtree(path='report/')
     logger.add(logfile, enqueue=True, encoding='utf-8')
     logger.info('开始测试...')
-    pytest.main(args=['test/test_api.py', f'--alluredir={report}/data'])
+    pytest.main(args=['test/test_api.py',"-s","-v", f'--alluredir={report}/data'])
     # 自动以服务形式打开报告
-    # os.system(f'allure serve {report}/data')
-
+    os.system(f'allure serve {report}/data')
     # 本地生成报告
     os.system(f'allure generate {report}/data -o {report}/html --clean')
     logger.success('报告已生成')

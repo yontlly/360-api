@@ -12,6 +12,7 @@ import requests
 from tools import allure_step, allure_title, logger, extractor, rep_expr
 from tools.data_process import DataProcess
 from tools.read_file import ReadFile
+import allure
 
 
 class BaseRequest(object):
@@ -30,11 +31,20 @@ class BaseRequest(object):
         :param env: 环境名称 默认使用config.yaml server下的 dev 后面的基准地址
         return: 响应结果， 预期结果
         """
-        case_number, case_title, path, token, method, parametric_key, file_obj, data, sql, expect = case
+        case_number,  case_feature, case_step ,case_title, path, token, method, parametric_key, file_obj, data, sql, expect = case
         # allure报告 用例标题
-        allure_title(case_title)
+        allure.dynamic.feature(case_feature)
+        allure.dynamic.story(case_step)
+        allure.dynamic.title(case_title)
         # 处理url、header、data、file、的前置方法
-        url = ReadFile.read_config(f'$.server.{env}') + DataProcess.handle_path(path)
+        test = "test"
+        if test in case_number:
+            url1 = ReadFile.read_config(
+                f'$.server.{env}') + DataProcess.handle_path(path)
+            url = url1.replace("8888", "8787")
+        else:
+            url = ReadFile.read_config(
+                f'$.server.{env}') + DataProcess.handle_path(path)
         allure_step('请求地址', url)
         header = DataProcess.handle_header(token)
         allure_step('请求头', header)
