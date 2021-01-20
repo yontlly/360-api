@@ -31,8 +31,9 @@ class BaseRequest(object):
         :param env: 环境名称 默认使用config.yaml server下的 dev 后面的基准地址
         return: 响应结果， 预期结果
         """
-        case_number,  case_feature, case_step ,case_title, path, token, method, parametric_key, file_obj, data, sql, expect = case
+        case_number,  case_feature, case_step ,case_title, path, token, method, parametric_key, file_obj, data, sql, response,expect = case
         # allure报告 用例标题
+        # allure_title(case_title)
         allure.dynamic.feature(case_feature)
         allure.dynamic.story(case_step)
         allure.dynamic.title(case_title)

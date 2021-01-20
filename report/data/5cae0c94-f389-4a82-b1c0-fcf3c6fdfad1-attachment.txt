@@ -1,8 +1,0 @@
-{
-    "errcode": "0",
-    "errmsg": "成功",
-    "type": "image",
-    "media_id": "5ffd59a0ee9eac071257a878",
-    "media_url": "http://10.206.83.102:8989/uploads/image/20201123/2a/2aa3a4df1995731d028a8ebff96801ef.jpeg",
-    "created_at": "1610439072"
-}
