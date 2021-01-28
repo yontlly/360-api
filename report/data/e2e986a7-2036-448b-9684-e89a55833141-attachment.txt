@@ -1,0 +1,27 @@
+{
+    "trans_id": "8B5488713B193C3CFAC7F463B5DEB105",
+    "access_token": "d6689f9bc9334b30",
+    "cid": "1917616998517622",
+    "client_ver": "3.1.0",
+    "dev_type": "7",
+    "operator_uid": "1917616998517623",
+    "app_id": "1917616998517636",
+    "name": "应用3-部门有发布权限",
+    "desc": "应用3-部门有发布权限",
+    "visible_scopes": {},
+    "preadd_scopes": {},
+    "extend_type": "1",
+    "extend_params": {
+        "receive_scopes": {},
+        "publish_scopes": {
+            "0": {
+                "did": "0",
+                "name": "pytest"
+            }
+        },
+        "receive_type": "1",
+        "push_message_status": "0",
+        "new_windows_status": "0"
+    },
+    "status": 0
+}

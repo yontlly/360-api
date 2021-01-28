@@ -1,0 +1,54 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": [
+        {
+            "uid": "1917616998517618",
+            "account": "woshiqunzhuya",
+            "name": "我是群主呀",
+            "enName": "lucky",
+            "gender": "1",
+            "sign": "刘哥好帅我要嫁给他",
+            "email": "",
+            "avatar": "",
+            "tel": "0215553222",
+            "mobile": "15000000000",
+            "status": "1",
+            "order": "2",
+            "orderTime": "1611801636",
+            "avatarUrl": ""
+        },
+        {
+            "uid": "1917616998517619",
+            "account": "woshiqunchengyuanya",
+            "name": "我是群成员呀",
+            "enName": "lucky",
+            "gender": "0",
+            "sign": "刘哥好帅我要嫁给他",
+            "email": "",
+            "avatar": "",
+            "tel": "0215553222",
+            "mobile": "15000000000",
+            "status": "1",
+            "order": "3",
+            "orderTime": "1611801636",
+            "avatarUrl": ""
+        },
+        {
+            "uid": "1917616998517620",
+            "account": "woshierhaochengyuan",
+            "name": "我是二号成员",
+            "enName": "lucky",
+            "gender": "1",
+            "sign": "刘哥好帅我要嫁给他",
+            "email": "",
+            "avatar": "",
+            "tel": "0215553222",
+            "mobile": "15000000000",
+            "status": "1",
+            "order": "4",
+            "orderTime": "1611801637",
+            "avatarUrl": ""
+        }
+    ]
+}

@@ -33,16 +33,22 @@ class BaseRequest(object):
         """
         case_number,  case_feature, case_step ,case_title, path, token, method, parametric_key, file_obj, data, sql, response,expect = case
         # allure报告 用例标题
-        # allure_title(case_title)
-        allure.dynamic.feature(case_feature)
-        allure.dynamic.story(case_step)
-        allure.dynamic.title(case_title)
+        allure_title(case_title)
+        # allure_step(case_step)
+        # allure.dynamic.feature(case_feature)
+        # allure.dynamic.story(case_step)
+        # allure.dynamic.title(case_title)
         # 处理url、header、data、file、的前置方法
         test = "test"
+        pwd = "pwd"
         if test in case_number:
             url1 = ReadFile.read_config(
                 f'$.server.{env}') + DataProcess.handle_path(path)
             url = url1.replace("8888", "8787")
+        elif pwd in case_number:
+            url1 = ReadFile.read_config(
+                f'$.server.{env}') + DataProcess.handle_path(path)
+            url = url1.replace("8888", "8282")
         else:
             url = ReadFile.read_config(
                 f'$.server.{env}') + DataProcess.handle_path(path)

@@ -1,0 +1,15 @@
+{
+    "appid": "1917616998517638",
+    "access_token": "lnVGZEGum8lctt96HaRvz7VbZpWZO2Tr",
+    "to_users": [
+        "1917616998517630",
+        "1917616998517631",
+        "1917616998517624",
+        "1917616998517625"
+    ],
+    "type": "text",
+    "message": {
+        "content": "hello word"
+    },
+    "msg_status": "1"
+}

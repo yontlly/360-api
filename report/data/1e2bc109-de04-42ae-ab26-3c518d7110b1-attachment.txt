@@ -1,0 +1,82 @@
+{
+    "appid": "1917616998517642",
+    "access_token": "lnVGZEGum8lctt96HaRvz7VbZpWZO2Tr",
+    "to_users": [
+        "1917616998517630",
+        "1917616998517631",
+        "1917616998517624",
+        "1917616998517625"
+    ],
+    "type": "attachment",
+    "message": {
+        "id": "594ccc6d20e01c077b5c9013",
+        "head": {
+            "text": "投票",
+            "bgcolor": "",
+            "tcolor": ""
+        },
+        "body": {
+            "title": "投票",
+            "content": "晚上吃什么"
+        },
+        "fields": [
+            {
+                "name": "传统面食",
+                "text": "1",
+                "value": "1",
+                "input": {
+                    "type": "radio",
+                    "name": "味千拉⾯",
+                    "group": "send_class"
+                }
+            },
+            {
+                "name": "川蜀之味",
+                "text": "2",
+                "value": "2",
+                "input": {
+                    "type": "radio",
+                    "name": "海底捞",
+                    "group": "send_class"
+                }
+            },
+            {
+                "name": "无肉不欢",
+                "text": "3",
+                "value": "3",
+                "input": {
+                    "type": "radio",
+                    "name": "巴西烤肉",
+                    "group": "send_class"
+                }
+            },
+            {
+                "name": "东南亚风情",
+                "text": "4",
+                "value": "4",
+                "input": {
+                    "type": "radio",
+                    "name": "泰妃阁",
+                    "group": "send_class"
+                }
+            },
+            {
+                "name": "中华美食",
+                "text": "5",
+                "value": "5",
+                "input": {
+                    "type": "radio",
+                    "name": "外婆家",
+                    "group": "send_class"
+                }
+            }
+        ],
+        "action": [
+            {
+                "text": "投票",
+                "name": "send",
+                "value": "vote"
+            }
+        ]
+    }
+}

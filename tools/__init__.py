@@ -31,6 +31,17 @@ def extractor(obj: dict, expr: str = '.') -> object:
     return result
 
 
+# def rep_expr(content: str, data: dict, expr: str = '&(.*?)&') -> str:
+#     """从请求参数的字符串中，使用正则的方法找出合适的字符串内容并进行替换
+#     :param content: 原始的字符串内容
+#     :param data: 在该项目中一般为响应字典，从字典取值出来
+#     :param expr: 查找用的正则表达式
+#     return content： 替换表达式后的字符串
+#     """
+#     for ctt in re.findall(expr, content):
+#         content = content.replace(f'&{ctt}&', str(extractor(data, ctt)))
+#
+#     return content
 def rep_expr(content: str, data: dict, expr: str = '&(.*?)&') -> str:
     """从请求参数的字符串中，使用正则的方法找出合适的字符串内容并进行替换
     :param content: 原始的字符串内容
@@ -40,7 +51,18 @@ def rep_expr(content: str, data: dict, expr: str = '&(.*?)&') -> str:
     """
     for ctt in re.findall(expr, content):
         content = content.replace(f'&{ctt}&', str(extractor(data, ctt)))
+    # 解决运算问题，实现+ -等常规数学运算， 用例书写格式{"uid":eval`&$.pid&+1`}
+    for e in re.findall('eval`(.*)`', content):
+        content = content.replace(f'eval`{e}`', str(eval(e)))
     return content
+# {
+#     "trans_id":"&$.test_002.trans_id&",
+#     "access_token":"&$.test_003..datas[0].access_token&",
+#     "cid":"&$.test_002..datas[0].cid&",
+#     "client_ver":"3.1.0",
+#     "dev_type":"7",
+#     "operator_uid":"eval`&$.test_002..datas[0].cid&+1`"
+# }
 
 
 def convert_json(dict_str: str) -> dict:
@@ -71,6 +93,10 @@ def convert_json(dict_str: str) -> dict:
 def allure_title(title: str) -> None:
     """allure中显示的用例标题"""
     allure.dynamic.title(title)
+
+def allure_step(case_step: str) :
+    allure.dynamic.story(case_step)
+
 
 
 def allure_step(step: str, var: str) -> None:
