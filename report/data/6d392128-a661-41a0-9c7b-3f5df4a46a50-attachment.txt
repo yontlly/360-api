@@ -1,0 +1,35 @@
+{
+    "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+    "access_token": "41e0c4e2e8d3434f",
+    "cid": "1917616998533858",
+    "client_ver": "3.1.0",
+    "dev_type": "7",
+    "operator_uid": "1917616998533859",
+    "name": "应用4-预添加py5",
+    "desc": "权限全部门",
+    "visible_scopes": {
+        "0": {
+            "uid": "1917616998533866",
+            "name": "pytest_test5"
+        }
+    },
+    "preadd_scopes": {
+        "0": {
+            "uid": "1917616998533866",
+            "name": "pytest_test5"
+        }
+    },
+    "extend_type": "1",
+    "extend_params": {
+        "receive_scopes": {},
+        "publish_scopes": {
+            "0": {
+                "did": "0",
+                "name": "pytest"
+            }
+        },
+        "receive_type": "1",
+        "push_message_status": "0",
+        "new_windows_status": "0"
+    }
+}

@@ -1,0 +1,3370 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "lM1yMUxH4EMWFlGzn88sxszGrjUDs5ZU"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "ioekw9vJP4ubeiMAOXmPMcURRdHqeBlP"
+    },
+    "case_004": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_008": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_009": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268651221"
+    },
+    "case_010": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_011": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_012": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533846"
+    },
+    "case_013": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_014": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_015": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_016": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_017": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_018": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "0",
+        "pageCount": "0",
+        "nextPage": "0",
+        "datas": []
+    },
+    "case_019": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "3",
+        "pageCount": "1",
+        "nextPage": "1",
+        "datas": [
+            {
+                "did": "268649943",
+                "name": "群相关依赖部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268651172",
+                "name": "上海研发部",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268651221",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            }
+        ]
+    },
+    "case_020": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268651221",
+        "name": "更新的部门",
+        "desp": "",
+        "tel": "",
+        "pid": "0",
+        "order": "0",
+        "has_child": "false",
+        "dept_group": "false"
+    },
+    "case_021": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_022": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "image",
+        "media_id": "60420052ee9eac0656580bdf",
+        "media_url": "http://10.206.83.102:8989/uploads/image/20210127/d3/d31318766f555357662bde133cbf5c11.jpeg",
+        "created_at": "1614938194"
+    },
+    "case_023": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "audio",
+        "media_id": "60420053ee9eac2e260cb221",
+        "media_url": "http://10.206.83.102:8989/uploads/audio/20201226/89/89e81c27cf89c246870f0db520a9b34f.mpga",
+        "created_at": "1614938195"
+    },
+    "case_024": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60420054ee9eac06e83deb38",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210126/a9/a910e6e1dd4db5d01ed3d976975cc28a.mp4",
+        "created_at": "1614938196"
+    },
+    "case_025": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60420055ee9eac06977a60d7",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210128/15/15d91375b962651eaf1aa48902dcc3fc",
+        "created_at": "1614938197"
+    },
+    "case_026": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60420055ee9eac070b72875d",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210126/5e/5ea9d08ff8f958304cc413f5f5c45a07.bin",
+        "created_at": "1614938197"
+    },
+    "case_027": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60420055ee9eac06a453714e",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20201226/94/94f65cc19519817f682d254378a97835.pdf",
+        "created_at": "1614938197"
+    },
+    "case_028": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533847"
+    },
+    "case_029": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_030": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_031": {
+        "errcode": "210005",
+        "errmsg": "部门不存在或部门id有误"
+    },
+    "case_032": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_033": {
+        "errcode": "220013",
+        "errmsg": "用户不存在或用户id有误"
+    },
+    "case_034": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "account": "liuchengxuzhenshuai",
+        "name": "更新后的名字",
+        "enName": "lucky",
+        "gender": "1",
+        "sign": "刘哥太帅了！不解释！",
+        "email": "",
+        "avatar": "",
+        "tel": "0215553222",
+        "mobile": "15000000000",
+        "status": "1",
+        "deptData": [
+            {
+                "did": "268651221",
+                "name": "更新的部门",
+                "desp": "",
+                "pid": "0",
+                "order": "1",
+                "has_child": "false",
+                "sourceDid": ""
+            }
+        ],
+        "roleId": "30",
+        "staffId": "",
+        "posData": [
+            {
+                "did": "268651221",
+                "posId": "196",
+                "order": "0",
+                "posName": "ceo"
+            }
+        ],
+        "userid": "1917616998533847",
+        "extattr": [],
+        "avatarUrl": ""
+    },
+    "case_035": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998533847",
+                "account": "liuchengxuzhenshuai",
+                "name": "更新后的名字",
+                "enName": "lucky",
+                "gender": "1",
+                "sign": "刘哥太帅了！不解释！",
+                "email": "",
+                "avatar": "",
+                "tel": "0215553222",
+                "mobile": "15000000000",
+                "status": "1",
+                "order": "1",
+                "orderTime": "1614938198",
+                "avatarUrl": ""
+            },
+            {
+                "uid": "1917616998533846",
+                "account": "bumenlitianjiayiren",
+                "name": "部门里添加一人",
+                "enName": "lucky",
+                "gender": "1",
+                "sign": "故意添加一位作为群无法删除的条件",
+                "email": "",
+                "avatar": "",
+                "tel": "0215553222",
+                "mobile": "15000000000",
+                "status": "1",
+                "order": "2",
+                "orderTime": "1614938192",
+                "avatarUrl": ""
+            }
+        ]
+    },
+    "case_036": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_037": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533848"
+    },
+    "case_038": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_039": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "users": [
+            {
+                "name": "批量创建用户1",
+                "account": "piliangchuangjianyonghu1",
+                "avatar": "60420052ee9eac0656580bdf",
+                "dept": "上海研发部",
+                "pos": "boss",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553222",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998533849"
+            },
+            {
+                "name": "批量创建用户2",
+                "account": "piliangchuangjianyonghu2",
+                "avatar": "60420052ee9eac0656580bdf",
+                "dept": "上海研发部",
+                "pos": "总监",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553223",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998533850"
+            },
+            {
+                "name": "批量创建用户3",
+                "account": "piliangchuangjianyonghu3",
+                "avatar": "60420052ee9eac0656580bdf",
+                "dept": "上海研发部",
+                "pos": "经理",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553224",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998533851"
+            },
+            {
+                "name": "批量创建用户44",
+                "account": "piliangchuangjianyonghu44",
+                "avatar": "60420052ee9eac0656580bdf",
+                "dept": "上海研发部",
+                "pos": "员工",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553225",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998533852"
+            },
+            {
+                "name": "批量创建用户5",
+                "account": "piliangchuangjianyonghu5",
+                "avatar": "60420052ee9eac0656580bdf",
+                "dept": "上海研发部",
+                "pos": "员工",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553226",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998533853"
+            }
+        ]
+    },
+    "case_040": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998533849",
+                "account": "piliangchuangjianyonghu1"
+            }
+        ]
+    },
+    "case_041": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "account": "piliangchuangjianyonghu1",
+                "name": "批量创建用户1",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60420052ee9eac0656580bdf",
+                "tel": "0215553222",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268651172",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268651172",
+                        "posId": "216",
+                        "order": "0",
+                        "posName": "boss"
+                    }
+                ],
+                "userid": "1917616998533849",
+                "extattr": [],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu2",
+                "name": "批量创建用户2",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60420052ee9eac0656580bdf",
+                "tel": "0215553223",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268651172",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268651172",
+                        "posId": "217",
+                        "order": "0",
+                        "posName": "总监"
+                    }
+                ],
+                "userid": "1917616998533850",
+                "extattr": [],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu3",
+                "name": "批量创建用户3",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60420052ee9eac0656580bdf",
+                "tel": "0215553224",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268651172",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268651172",
+                        "posId": "218",
+                        "order": "0",
+                        "posName": "经理"
+                    }
+                ],
+                "userid": "1917616998533851",
+                "extattr": [],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu44",
+                "name": "批量创建用户44",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60420052ee9eac0656580bdf",
+                "tel": "0215553225",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268651172",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268651172",
+                        "posId": "219",
+                        "order": "0",
+                        "posName": "员工"
+                    }
+                ],
+                "userid": "1917616998533852",
+                "extattr": [],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu5",
+                "name": "批量创建用户5",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60420052ee9eac0656580bdf",
+                "tel": "0215553226",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268651172",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268651172",
+                        "posId": "219",
+                        "order": "0",
+                        "posName": "员工"
+                    }
+                ],
+                "userid": "1917616998533853",
+                "extattr": [],
+                "avatarUrl": ""
+            }
+        ]
+    },
+    "case_042": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998533846",
+                "account": "bumenlitianjiayiren",
+                "name": "部门里添加一人",
+                "enName": "lucky",
+                "gender": "1",
+                "sign": "故意添加一位作为群无法删除的条件",
+                "email": "",
+                "avatar": "",
+                "tel": "0215553222",
+                "mobile": "15000000000",
+                "status": "1",
+                "order": "2",
+                "orderTime": "1614938192",
+                "avatarUrl": ""
+            }
+        ]
+    },
+    "case_043": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "total": "0"
+    },
+    "case_044": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_045": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "3",
+        "pageCount": "1",
+        "nextPage": "1",
+        "datas": [
+            {
+                "did": "268649943",
+                "name": "群相关依赖部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268651172",
+                "name": "上海研发部",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268651221",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            }
+        ]
+    },
+    "case_046": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_047": {
+        "errcode": "210008",
+        "errmsg": "部门下有子部门或成员"
+    },
+    "case_048": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_049": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "test_00_1": {
+        "trans_id": "E8E84F3653DDCB1048246527E7F01C0B",
+        "err_code": "10000003",
+        "err_msg": "参数缺失",
+        "timestamp": "1614938211",
+        "time_cost": ""
+    },
+    "case_050": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268651230"
+    },
+    "case_051": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_052": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533855"
+    },
+    "case_053": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533856"
+    },
+    "case_054": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "groupid": "1917616998533857"
+    },
+    "case_055": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_056": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_057": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_058": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "groupid": "1917616998533857",
+            "name": "修改后的群聊名",
+            "hostUid": "1917616998533855",
+            "hostName": "我是群成员呀",
+            "count": "0"
+        }
+    },
+    "case_059": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_060": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_061": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_062": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_063": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_064": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_065": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_066": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "groupid": "1917616998533857",
+            "name": "修改后的群聊名",
+            "hostUid": "0",
+            "hostName": "",
+            "count": "3"
+        }
+    },
+    "case_067": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "0",
+                "type": "110"
+            },
+            {
+                "uid": "1917616998533855",
+                "type": "110"
+            },
+            {
+                "uid": "1917616998533856",
+                "type": "110"
+            }
+        ]
+    },
+    "case_068": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_069": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_070": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "groupid": "1917616998533857",
+            "name": "修改后的群聊名",
+            "hostUid": "0",
+            "hostName": "",
+            "count": "0"
+        }
+    },
+    "case_071": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_073": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998533855",
+                "account": "woshiqunchengyuanya",
+                "name": "我是群成员呀",
+                "enName": "lucky",
+                "gender": "0",
+                "sign": "刘哥好帅我要嫁给他",
+                "email": "",
+                "avatar": "",
+                "tel": "0215553222",
+                "mobile": "15000000000",
+                "status": "1",
+                "order": "3",
+                "orderTime": "1614938212",
+                "avatarUrl": ""
+            },
+            {
+                "uid": "1917616998533856",
+                "account": "woshierhaochengyuan",
+                "name": "我是二号成员",
+                "enName": "lucky",
+                "gender": "1",
+                "sign": "刘哥好帅我要嫁给他",
+                "email": "",
+                "avatar": "",
+                "tel": "0215553222",
+                "mobile": "15000000000",
+                "status": "1",
+                "order": "4",
+                "orderTime": "1614938212",
+                "avatarUrl": ""
+            }
+        ]
+    },
+    "case_074": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "totalCount": "0",
+        "datas": []
+    },
+    "case_075": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_076": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_077": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_078": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998533855",
+                "type": "110"
+            },
+            {
+                "uid": "1917616998533856",
+                "type": "110"
+            }
+        ]
+    },
+    "case_079": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_080": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998533855",
+                "type": "104"
+            },
+            {
+                "uid": "1917616998533856",
+                "type": "110"
+            }
+        ]
+    },
+    "case_081": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_082": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998533855",
+                "type": "104"
+            },
+            {
+                "uid": "1917616998533856",
+                "type": "110"
+            }
+        ]
+    },
+    "case_083": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_084": {
+        "errcode": "100002",
+        "errmsg": "参数错误"
+    },
+    "case_085": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_086": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_087": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "test_001": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938223",
+        "time_cost": "0.043",
+        "datas": [
+            {
+                "master_name": "云管理员",
+                "master_token": "58a0f56870c6b9951d2a480054f6f7a1",
+                "master_token_expire_time": "86400",
+                "addr_conf": {
+                    "web_client": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8888",
+                            "address": "http://10.206.83.102:8888"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9090",
+                            "address": "http://10.206.83.102:9090"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_go": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9899",
+                            "address": "http://10.206.83.102:9899"
+                        }
+                    ]
+                },
+                "inited": "1"
+            }
+        ]
+    },
+    "test_002": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938224",
+        "time_cost": "1.669",
+        "datas": [
+            {
+                "cid": "1917616998533858",
+                "admin_account": "admin",
+                "admin_uid": "1917616998533859"
+            }
+        ]
+    },
+    "test_003": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938225",
+        "time_cost": "0.44",
+        "datas": [
+            {
+                "access_token": "41e0c4e2e8d3434f",
+                "refresh_token": "083bfd144f7a476d",
+                "uid": "1917616998533859",
+                "cid": "1917616998533858",
+                "corp_name": "pytest",
+                "user_name": "admin",
+                "role_id": "5",
+                "manage_dids": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "addr_conf": {
+                    "srv_conn": [
+                        "sshserver.91kook.cn:6000"
+                    ],
+                    "web_client": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8888",
+                            "address": "http://10.206.83.102:8888"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9090",
+                            "address": "http://10.206.83.102:9090"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_go": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9899",
+                            "address": "http://10.206.83.102:9899"
+                        }
+                    ]
+                },
+                "addr_table": [
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    },
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    }
+                ],
+                "dev_type": "7"
+            }
+        ]
+    },
+    "test_004": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938225",
+        "time_cost": "0.466",
+        "datas": [
+            {
+                "uid": "1917616998533860"
+            }
+        ]
+    },
+    "test_005": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938226",
+        "time_cost": "0.766",
+        "datas": [
+            {
+                "uid": "1917616998533861"
+            }
+        ]
+    },
+    "test_006": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938227",
+        "time_cost": "0.476",
+        "datas": [
+            {
+                "did": "268651238"
+            }
+        ]
+    },
+    "test_007": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938228",
+        "time_cost": "0.964",
+        "datas": [
+            {
+                "uid": "1917616998533863"
+            }
+        ]
+    },
+    "test_008": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938229",
+        "time_cost": "1.01",
+        "datas": [
+            {
+                "uid": "1917616998533864"
+            }
+        ]
+    },
+    "test_009": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938230",
+        "time_cost": "0.327",
+        "datas": [
+            {
+                "did": "268651241"
+            }
+        ]
+    },
+    "test_010": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938231",
+        "time_cost": "0.731",
+        "datas": [
+            {
+                "uid": "1917616998533866"
+            }
+        ]
+    },
+    "test_011": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938232",
+        "time_cost": "0.996",
+        "datas": [
+            {
+                "uid": "1917616998533867"
+            }
+        ]
+    },
+    "test_012": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938232",
+        "time_cost": "0.548",
+        "datas": [
+            {
+                "did": "268651244"
+            }
+        ]
+    },
+    "test_013": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938233",
+        "time_cost": "0.312",
+        "datas": [
+            {
+                "cid": "1917616998533858",
+                "did": "0",
+                "name": "pytest",
+                "desp": "",
+                "dept_num": "3",
+                "user_num": "7",
+                "tel": "",
+                "create_time": "1614938223",
+                "update_time": "1614938233",
+                "disable_num": "0",
+                "dept_group": "0",
+                "recursive_add_member": "0"
+            }
+        ]
+    },
+    "test_014": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938234",
+        "time_cost": "0.675"
+    },
+    "test_015": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938234",
+        "time_cost": "0.549"
+    },
+    "test_016": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938235",
+        "time_cost": "0.554"
+    },
+    "test_017": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938236",
+        "time_cost": "0.463"
+    },
+    "test_018": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938236",
+        "time_cost": "0.587"
+    },
+    "test_019": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938237",
+        "time_cost": "0.523"
+    },
+    "test_020": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938238",
+        "time_cost": "0.609"
+    },
+    "test_021": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938238",
+        "time_cost": "0.607"
+    },
+    "test_022": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938239",
+        "time_cost": "0.571",
+        "datas": []
+    },
+    "test_023": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938240",
+        "time_cost": "0.418",
+        "datas": [
+            {
+                "backend_url": "",
+                "app_id": "4563402869",
+                "pc_home_url": "<web_fed>/fed/web-task?navBgColor=FF16B57C&navShareHide=true",
+                "logo_media_id": "5f9d1597ee9eac64495a5431",
+                "awake_app": "",
+                "object_id": "0",
+                "interactive_url": "http://127.0.0.1:8282/task/callback",
+                "logo_url": "http://10.206.83.102:8989/uploads/image/20201031/72/72cca9a0c554225176fe448a9563e6c1.png",
+                "type": "1",
+                "sort": "0",
+                "package_fid": "",
+                "mobile_home_url": "<web_fed>/fed/web-task?navBgColor=FF16B57C&navShareHide=true",
+                "app_key": "fdl6M7JScc3oaE8GeLhqo3tuQt8Ipm2n",
+                "updated_at": "1604130199",
+                "new_window": "0",
+                "need_awake": "0",
+                "desc": "任务管理",
+                "name": "任务",
+                "visible_scopes": [],
+                "created_at": "1604130199",
+                "card_id": "5b062ebc20e01c7c6e35a310",
+                "awake_activity": "",
+                "token": "whatthefuck",
+                "status": "1",
+                "callback_url": "<web_fed>/fed/web-task/",
+                "display": "0",
+                "extend_type": "0",
+                "channel_id": "0",
+                "app_config": [],
+                "extended_switch": [],
+                "msgbtn_sync": "0",
+                "preadd_scopes": [],
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": ""
+            },
+            {
+                "backend_url": "<web_fed>/fed/web-notice?admin=true",
+                "app_id": "4563402963",
+                "pc_home_url": "<web_fed>/fed/web-notice",
+                "logo_media_id": "5f9d1599ee9eac644b744081",
+                "awake_app": "",
+                "object_id": "0",
+                "interactive_url": "",
+                "logo_url": "http://10.206.83.102:8989/uploads/image/20201031/60/60d4a1a36586d4a960c8ed34435664bd.png",
+                "type": "1",
+                "sort": "0",
+                "package_fid": "",
+                "mobile_home_url": "<web_fed>/fed/web-notice?navBgColor=FFF7F7F7&navShareHide=true",
+                "app_key": "Cpsq1GpOLr0jxX0vmzSNAHbH4gao6l0h",
+                "updated_at": "1604130201",
+                "new_window": "0",
+                "need_awake": "0",
+                "desc": "电子公告",
+                "name": "公告",
+                "visible_scopes": [],
+                "created_at": "1604130201",
+                "card_id": "",
+                "awake_activity": "",
+                "token": "",
+                "status": "1",
+                "callback_url": "",
+                "display": "0",
+                "extend_type": "0",
+                "channel_id": "0",
+                "app_config": [],
+                "extended_switch": [],
+                "msgbtn_sync": "0",
+                "preadd_scopes": [],
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": ""
+            },
+            {
+                "backend_url": "",
+                "package_name": "",
+                "app_id": "17660905607766",
+                "pc_home_url": "<web_client>/fed/web-mail?navShareHide=true",
+                "logo_media_id": "5f9d159dee9eac644e2d3511",
+                "awake_app": "",
+                "object_id": "268435842",
+                "interactive_url": "",
+                "app_download_url": "",
+                "logo_url": "http://10.206.83.102:8989/uploads/image/20201031/84/847837a5a0fc0518aeba577cad25785a.png",
+                "type": "1",
+                "sort": "0",
+                "package_fid": "",
+                "mobile_home_url": "<web_client>/fed/web-mail?navShareHide=true",
+                "app_key": "AHh0XPdW5B4mBICdT4NUAOLD3ntfFw4Y",
+                "updated_at": "1604130205",
+                "new_window": "0",
+                "need_awake": "0",
+                "desc": "对接263企业邮箱",
+                "name": "企业邮箱",
+                "visible_scopes": [],
+                "created_at": "1604130205",
+                "card_id": "5a0eacf93a66bd290b1882ed",
+                "display": "0",
+                "token": "",
+                "status": "1",
+                "callback_url": "",
+                "awake_activity": "",
+                "extend_type": "0",
+                "channel_id": "0",
+                "app_config": [],
+                "extended_switch": [],
+                "msgbtn_sync": "0",
+                "preadd_scopes": [],
+                "awake_windows": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": ""
+            },
+            {
+                "backend_url": "",
+                "package_name": "",
+                "app_id": "17660905607758",
+                "pc_home_url": "ccwork://schedule/scheduleList?uid=",
+                "logo_media_id": "5f9d159eee9eac644f08d1b1",
+                "awake_app": "",
+                "object_id": "0",
+                "interactive_url": "http://127.0.0.1:8282/reminder/reminderappmsgcallback",
+                "app_download_url": "",
+                "logo_url": "http://10.206.83.102:8989/uploads/image/20201031/a0/a058db24243bd0da5f199f9ccfcb556e.png",
+                "type": "1",
+                "sort": "0",
+                "package_fid": "",
+                "mobile_home_url": "ccwork://schedule/scheduleList?uid=",
+                "app_key": "O1vGvct4yggacbWvguQFvrmgmkEtlSkO",
+                "updated_at": "1604130206",
+                "new_window": "0",
+                "need_awake": "0",
+                "desc": "团队日程",
+                "name": "团队日程",
+                "visible_scopes": [],
+                "created_at": "1604130206",
+                "card_id": "5b065dd4457efe173045b5f0",
+                "display": "0",
+                "token": "",
+                "status": "1",
+                "callback_url": "",
+                "awake_activity": "",
+                "extend_type": "0",
+                "channel_id": "0",
+                "app_config": [],
+                "extended_switch": [],
+                "msgbtn_sync": "0",
+                "preadd_scopes": [],
+                "awake_windows": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": ""
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533870",
+                "app_key": "z4ozDK6cmJz5V2aAi1Kfy30d5nB9fGxJ",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用1-预添加选择部门",
+                "desc": "应用介绍",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "preadd_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938233",
+                "created_at": "1614938233"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533871",
+                "app_key": "7T2ZIHEvyQb52yo4S7Hxp8B95Ub6yP6p",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用2-啥都不选",
+                "desc": "应用介绍",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [],
+                "preadd_scopes": [],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938234",
+                "created_at": "1614938234"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533872",
+                "app_key": "FUyHfWUEpg7X5Oui3w7IFbu65AMqfKQ7",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用3-部门有发布权限",
+                "desc": "应用3-部门有发布权限",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [],
+                "preadd_scopes": [],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938235",
+                "created_at": "1614938235"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533873",
+                "app_key": "Wc2gbcHh1YGRTrHZgFg1nAStS7qs4Nv7",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用4-预添加py5",
+                "desc": "权限全部门",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [
+                    {
+                        "uid": "1917616998533866",
+                        "name": "pytest_test5"
+                    }
+                ],
+                "preadd_scopes": [
+                    {
+                        "uid": "1917616998533866",
+                        "name": "pytest_test5"
+                    }
+                ],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938235",
+                "created_at": "1614938235"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533874",
+                "app_key": "C1X9KL1L9ARiew98IFlywhxbV9FjxmtB",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用5-全选",
+                "desc": "应用5-全选",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "preadd_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938236",
+                "created_at": "1614938236"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533875",
+                "app_key": "obBMUIg8IwJvMwurqlvHb4SDZy6pDpJV",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用6-全选子部门",
+                "desc": "选的是pytest-dept2",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [
+                    {
+                        "did": "268651241",
+                        "name": "pytest-dept2"
+                    }
+                ],
+                "preadd_scopes": [
+                    {
+                        "did": "268651241",
+                        "name": "pytest-dept2"
+                    }
+                ],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938237",
+                "created_at": "1614938237"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533876",
+                "app_key": "j7ZHMY5T80k6IDGr1aSvyMiRIKsvgBJS",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用7-私密全选",
+                "desc": "应用7-私密全选",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "preadd_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938237",
+                "created_at": "1614938237"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533877",
+                "app_key": "AzIL4GsfuHiLW9lZmFngT3ktsppyksZg",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用8-私密-py5",
+                "desc": "发布范围私密 -py5",
+                "backend_url": "",
+                "mobile_home_url": "<web_fed>/fed/web-subscription/",
+                "pc_home_url": "<web_fed>/fed/web-subscription/",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "3",
+                "extend_type": "1",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [],
+                "preadd_scopes": [],
+                "interactive_url": "",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938238",
+                "created_at": "1614938238"
+            },
+            {
+                "object_id": "1917616998533858",
+                "app_id": "1917616998533878",
+                "app_key": "Q1EkW6gITz9rIJzT6rFdGEzniJyueup8",
+                "logo_url": "",
+                "logo_media_id": "",
+                "name": "应用9-推送可交互",
+                "desc": "应用9-推送可交互",
+                "backend_url": "",
+                "mobile_home_url": "",
+                "pc_home_url": "",
+                "callback_url": "",
+                "token": "",
+                "sort": "0",
+                "display": "0",
+                "type": "2",
+                "extend_type": "0",
+                "status": "1",
+                "new_window": "0",
+                "need_awake": "0",
+                "awake_app": "",
+                "awake_activity": "",
+                "awake_windows": "",
+                "app_download_url": "",
+                "ios_download_url": "",
+                "android_download_url": "",
+                "windows_download_url": "",
+                "visible_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "preadd_scopes": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "interactive_url": "http://localhost:12306/json",
+                "msgbtn_sync": "0",
+                "package_fid": "",
+                "package_name": "",
+                "card_id": "",
+                "extended_switch": [],
+                "channel_id": "0",
+                "app_config": [],
+                "updated_at": "1614938239",
+                "created_at": "1614938239"
+            }
+        ],
+        "extend_app_types": {
+            "1": "公众号",
+            "2": "企业邮箱",
+            "3": "应用访问统计"
+        }
+    },
+    "test_024": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938240",
+        "time_cost": "0.355",
+        "datas": []
+    },
+    "test_025": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938241",
+        "time_cost": "0.35",
+        "datas": []
+    },
+    "test_026": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938241",
+        "time_cost": "0.433",
+        "datas": []
+    },
+    "test_027": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938242",
+        "time_cost": "0.374",
+        "datas": []
+    },
+    "test_028": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938242",
+        "time_cost": "0.395",
+        "datas": []
+    },
+    "test_029": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938243",
+        "time_cost": "0.279",
+        "datas": []
+    },
+    "pwd_001": {
+        "trans_id": "E5E6073C076CA7EE2A0E0B3A9D508976",
+        "err_code": "0",
+        "err_msg": "everything is succeed.",
+        "timestamp": "1614938243",
+        "time_cost": "0.112",
+        "account_type": "1",
+        "access_token": "a9b27fa9cb4ce11c",
+        "refresh_token": "b9de9fd111f040c0",
+        "expire_time": "1617530243",
+        "cids": [
+            "1917616998533858"
+        ],
+        "init_flag": "0",
+        "license_remain_time": "28168733",
+        "dev_type": "5",
+        "uid": "1917616998533860",
+        "addr_conf": {
+            "srv_conn": [
+                "10.206.83.102:5000"
+            ],
+            "web_client": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8282",
+                    "address": "http://10.206.83.102:8282"
+                }
+            ],
+            "web_open": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8888",
+                    "address": "http://10.206.83.102:8888"
+                }
+            ],
+            "srv_push": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "9090",
+                    "address": "http://10.206.83.102:9090"
+                }
+            ],
+            "web_fed": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8282",
+                    "address": "http://10.206.83.102:8282"
+                }
+            ],
+            "web_go": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "9899",
+                    "address": "http://10.206.83.102:9899"
+                }
+            ]
+        },
+        "addr_table": [
+            {
+                "addr_conf": {
+                    "relay_conn": [
+                        "10.206.83.102:20000"
+                    ],
+                    "web_go": [
+                        {
+                            "address": "http://<COND_IP>:9899",
+                            "scheme": "http",
+                            "port": "9899",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "address": "http://<COND_IP>:9090",
+                            "scheme": "http",
+                            "port": "9090",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_client": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "address": "http://<COND_IP>:8888",
+                            "scheme": "http",
+                            "port": "8888",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_manage": [
+                        {
+                            "port": "8787",
+                            "address": "http://<COND_IP>:8787",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_file": [
+                        {
+                            "port": "8989",
+                            "address": "http://<COND_IP>:8989",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_conn": [
+                        "10.206.83.102:5000"
+                    ]
+                }
+            },
+            {
+                "addr_conf": {
+                    "relay_conn": [
+                        "10.206.83.102:20000"
+                    ],
+                    "web_go": [
+                        {
+                            "address": "http://<COND_IP>:9899",
+                            "scheme": "http",
+                            "port": "9899",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "address": "http://<COND_IP>:9090",
+                            "scheme": "http",
+                            "port": "9090",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_client": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "address": "http://<COND_IP>:8888",
+                            "scheme": "http",
+                            "port": "8888",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_manage": [
+                        {
+                            "port": "8787",
+                            "address": "http://<COND_IP>:8787",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_file": [
+                        {
+                            "port": "8989",
+                            "address": "http://<COND_IP>:8989",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_conn": [
+                        "10.206.83.102:5000"
+                    ]
+                }
+            }
+        ],
+        "https_filter_conf": {
+            "white": [
+                "*"
+            ],
+            "black": [
+                "file/upload",
+                "file/get",
+                "file/query",
+                "file/delete",
+                "file/upload_avatar",
+                "file/get_avatar",
+                "file/uploadLog",
+                "file/batch/get_avatar",
+                ":8888"
+            ]
+        },
+        "login_method": "1",
+        "encrypt_option": {
+            "public_key": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF3UkRmM1RvdC96eStkUTNleS9tbQpNRWFNdTFMN1VjMTh6R1pHSnFvbWt3dm40NGFOR2FoejNuSkpDQ2ZSVXNwRHdGRlZHZ2htTk1mTmczQXVkbDVvCjBFQ3hqaG1VSmtaVjR0ZkZhSDlKTDlQdUJaQzROY3paM05pL3VpMWo5WU01T3NQMHBVcmdOSGVIbmdRYUs5cEYKNXk1UWNKaEVsZmdEN09vOHhmOHJkWFBObURWMVcvZTZPNkt0ZWpHVG9wemtmWkpVWjJoRStjMGVsU0QyNDIxbgpWSHcvRlRhcEFUb0dHSmZrclA5M24vQ0twVUMyT2lvT3JzdndSSDhNSURoaFloZUoyNTkxRGNtR0ZYNHJNd2dmCnpFdm44dW9oNnQ5NHF3cG5pb3dRTkw4T3pHL1RCbllPZDBFL2tzSW0wNFpHL1M2YVJaRzhsMFpiaDVNWitSYUwKNXdJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==",
+            "type": "rsa"
+        }
+    },
+    "pwd_002": {
+        "trans_id": "E5E6073C076CA7EE2A0E0B3A9D508976",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938243",
+        "time_cost": "0.041",
+        "pwd_security_level": "1"
+    },
+    "pwd_003": {
+        "trans_id": "E5E6073C076CA7EE2A0E0B3A9D508976",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938244",
+        "time_cost": "0.608"
+    },
+    "pwd_004": {
+        "trans_id": "8FC9232437955303F76EB69CAE99A254",
+        "err_code": "0",
+        "err_msg": "everything is succeed.",
+        "timestamp": "1614938244",
+        "time_cost": "0.111",
+        "account_type": "1",
+        "access_token": "bc7034dc86d21452",
+        "refresh_token": "2f5794ee372e8749",
+        "expire_time": "1617530244",
+        "cids": [
+            "1917616998533858"
+        ],
+        "init_flag": "0",
+        "license_remain_time": "28168732",
+        "dev_type": "5",
+        "uid": "1917616998533861",
+        "addr_conf": {
+            "srv_conn": [
+                "10.206.83.102:5000"
+            ],
+            "web_client": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8282",
+                    "address": "http://10.206.83.102:8282"
+                }
+            ],
+            "web_open": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8888",
+                    "address": "http://10.206.83.102:8888"
+                }
+            ],
+            "srv_push": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "9090",
+                    "address": "http://10.206.83.102:9090"
+                }
+            ],
+            "web_fed": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8282",
+                    "address": "http://10.206.83.102:8282"
+                }
+            ],
+            "web_go": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "9899",
+                    "address": "http://10.206.83.102:9899"
+                }
+            ]
+        },
+        "addr_table": [
+            {
+                "addr_conf": {
+                    "relay_conn": [
+                        "10.206.83.102:20000"
+                    ],
+                    "web_go": [
+                        {
+                            "address": "http://<COND_IP>:9899",
+                            "scheme": "http",
+                            "port": "9899",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "address": "http://<COND_IP>:9090",
+                            "scheme": "http",
+                            "port": "9090",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_client": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "address": "http://<COND_IP>:8888",
+                            "scheme": "http",
+                            "port": "8888",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_manage": [
+                        {
+                            "port": "8787",
+                            "address": "http://<COND_IP>:8787",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_file": [
+                        {
+                            "port": "8989",
+                            "address": "http://<COND_IP>:8989",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_conn": [
+                        "10.206.83.102:5000"
+                    ]
+                }
+            },
+            {
+                "addr_conf": {
+                    "relay_conn": [
+                        "10.206.83.102:20000"
+                    ],
+                    "web_go": [
+                        {
+                            "address": "http://<COND_IP>:9899",
+                            "scheme": "http",
+                            "port": "9899",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "address": "http://<COND_IP>:9090",
+                            "scheme": "http",
+                            "port": "9090",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_client": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "address": "http://<COND_IP>:8888",
+                            "scheme": "http",
+                            "port": "8888",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_manage": [
+                        {
+                            "port": "8787",
+                            "address": "http://<COND_IP>:8787",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_file": [
+                        {
+                            "port": "8989",
+                            "address": "http://<COND_IP>:8989",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_conn": [
+                        "10.206.83.102:5000"
+                    ]
+                }
+            }
+        ],
+        "https_filter_conf": {
+            "white": [
+                "*"
+            ],
+            "black": [
+                "file/upload",
+                "file/get",
+                "file/query",
+                "file/delete",
+                "file/upload_avatar",
+                "file/get_avatar",
+                "file/uploadLog",
+                "file/batch/get_avatar",
+                ":8888"
+            ]
+        },
+        "login_method": "1",
+        "encrypt_option": {
+            "public_key": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF3UkRmM1RvdC96eStkUTNleS9tbQpNRWFNdTFMN1VjMTh6R1pHSnFvbWt3dm40NGFOR2FoejNuSkpDQ2ZSVXNwRHdGRlZHZ2htTk1mTmczQXVkbDVvCjBFQ3hqaG1VSmtaVjR0ZkZhSDlKTDlQdUJaQzROY3paM05pL3VpMWo5WU01T3NQMHBVcmdOSGVIbmdRYUs5cEYKNXk1UWNKaEVsZmdEN09vOHhmOHJkWFBObURWMVcvZTZPNkt0ZWpHVG9wemtmWkpVWjJoRStjMGVsU0QyNDIxbgpWSHcvRlRhcEFUb0dHSmZrclA5M24vQ0twVUMyT2lvT3JzdndSSDhNSURoaFloZUoyNTkxRGNtR0ZYNHJNd2dmCnpFdm44dW9oNnQ5NHF3cG5pb3dRTkw4T3pHL1RCbllPZDBFL2tzSW0wNFpHL1M2YVJaRzhsMFpiaDVNWitSYUwKNXdJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==",
+            "type": "rsa"
+        }
+    },
+    "pwd_005": {
+        "trans_id": "8FC9232437955303F76EB69CAE99A254",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938244",
+        "time_cost": "0.034",
+        "pwd_security_level": "1"
+    },
+    "pwd_006": {
+        "trans_id": "8FC9232437955303F76EB69CAE99A254",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938245",
+        "time_cost": "0.552"
+    },
+    "pwd_007": {
+        "trans_id": "33780017C7822B77FBE6EC425F0B9F85",
+        "err_code": "0",
+        "err_msg": "everything is succeed.",
+        "timestamp": "1614938245",
+        "time_cost": "0.135",
+        "account_type": "1",
+        "access_token": "c8d12e61409632c7",
+        "refresh_token": "ebfdaf7a2568ba80",
+        "expire_time": "1617530245",
+        "cids": [
+            "1917616998533858"
+        ],
+        "init_flag": "0",
+        "license_remain_time": "28168731",
+        "dev_type": "5",
+        "uid": "1917616998533863",
+        "addr_conf": {
+            "srv_conn": [
+                "10.206.83.102:5000"
+            ],
+            "web_client": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8282",
+                    "address": "http://10.206.83.102:8282"
+                }
+            ],
+            "web_open": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8888",
+                    "address": "http://10.206.83.102:8888"
+                }
+            ],
+            "srv_push": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "9090",
+                    "address": "http://10.206.83.102:9090"
+                }
+            ],
+            "web_fed": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "8282",
+                    "address": "http://10.206.83.102:8282"
+                }
+            ],
+            "web_go": [
+                {
+                    "scheme": "http",
+                    "host": "10.206.83.102",
+                    "port": "9899",
+                    "address": "http://10.206.83.102:9899"
+                }
+            ]
+        },
+        "addr_table": [
+            {
+                "addr_conf": {
+                    "relay_conn": [
+                        "10.206.83.102:20000"
+                    ],
+                    "web_go": [
+                        {
+                            "address": "http://<COND_IP>:9899",
+                            "scheme": "http",
+                            "port": "9899",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "address": "http://<COND_IP>:9090",
+                            "scheme": "http",
+                            "port": "9090",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_client": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "address": "http://<COND_IP>:8888",
+                            "scheme": "http",
+                            "port": "8888",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_manage": [
+                        {
+                            "port": "8787",
+                            "address": "http://<COND_IP>:8787",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_file": [
+                        {
+                            "port": "8989",
+                            "address": "http://<COND_IP>:8989",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_conn": [
+                        "10.206.83.102:5000"
+                    ]
+                }
+            },
+            {
+                "addr_conf": {
+                    "relay_conn": [
+                        "10.206.83.102:20000"
+                    ],
+                    "web_go": [
+                        {
+                            "address": "http://<COND_IP>:9899",
+                            "scheme": "http",
+                            "port": "9899",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "address": "http://<COND_IP>:9090",
+                            "scheme": "http",
+                            "port": "9090",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_client": [
+                        {
+                            "address": "http://<COND_IP>:8282",
+                            "scheme": "http",
+                            "port": "8282",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "address": "http://<COND_IP>:8888",
+                            "scheme": "http",
+                            "port": "8888",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_manage": [
+                        {
+                            "port": "8787",
+                            "address": "http://<COND_IP>:8787",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "web_file": [
+                        {
+                            "port": "8989",
+                            "address": "http://<COND_IP>:8989",
+                            "scheme": "http",
+                            "host": "<COND_IP>"
+                        }
+                    ],
+                    "srv_conn": [
+                        "10.206.83.102:5000"
+                    ]
+                }
+            }
+        ],
+        "https_filter_conf": {
+            "white": [
+                "*"
+            ],
+            "black": [
+                "file/upload",
+                "file/get",
+                "file/query",
+                "file/delete",
+                "file/upload_avatar",
+                "file/get_avatar",
+                "file/uploadLog",
+                "file/batch/get_avatar",
+                ":8888"
+            ]
+        },
+        "login_method": "1",
+        "encrypt_option": {
+            "public_key": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF3UkRmM1RvdC96eStkUTNleS9tbQpNRWFNdTFMN1VjMTh6R1pHSnFvbWt3dm40NGFOR2FoejNuSkpDQ2ZSVXNwRHdGRlZHZ2htTk1mTmczQXVkbDVvCjBFQ3hqaG1VSmtaVjR0ZkZhSDlKTDlQdUJaQzROY3paM05pL3VpMWo5WU01T3NQMHBVcmdOSGVIbmdRYUs5cEYKNXk1UWNKaEVsZmdEN09vOHhmOHJkWFBObURWMVcvZTZPNkt0ZWpHVG9wemtmWkpVWjJoRStjMGVsU0QyNDIxbgpWSHcvRlRhcEFUb0dHSmZrclA5M24vQ0twVUMyT2lvT3JzdndSSDhNSURoaFloZUoyNTkxRGNtR0ZYNHJNd2dmCnpFdm44dW9oNnQ5NHF3cG5pb3dRTkw4T3pHL1RCbllPZDBFL2tzSW0wNFpHL1M2YVJaRzhsMFpiaDVNWitSYUwKNXdJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==",
+            "type": "rsa"
+        }
+    },
+    "pwd_008": {
+        "trans_id": "33780017C7822B77FBE6EC425F0B9F85",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938245",
+        "time_cost": "0.033",
+        "pwd_security_level": "1"
+    },
+    "pwd_009": {
+        "trans_id": "33780017C7822B77FBE6EC425F0B9F85",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938246",
+        "time_cost": "0.498"
+    },
+    "test_030": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938246",
+        "time_cost": "0.444"
+    },
+    "test_031": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938247",
+        "time_cost": "0.311",
+        "datas": []
+    },
+    "test_032": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938247",
+        "time_cost": "0.44"
+    },
+    "test_033": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938248",
+        "time_cost": "0.328",
+        "datas": []
+    },
+    "test_034": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938249",
+        "time_cost": "0.468"
+    },
+    "test_035": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938249",
+        "time_cost": "0.29",
+        "datas": []
+    },
+    "test_036": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938250",
+        "time_cost": "0.437"
+    },
+    "test_037": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938250",
+        "time_cost": "0.296",
+        "datas": []
+    },
+    "test_038": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938251",
+        "time_cost": "0.452"
+    },
+    "test_039": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938251",
+        "time_cost": "0.288",
+        "datas": []
+    },
+    "test_040": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938251",
+        "time_cost": "0.357",
+        "datas": [
+            {
+                "access_token": "cc09cf59a6f2342b",
+                "refresh_token": "832110b34b8a3f54",
+                "uid": "1917616998533859",
+                "cid": "1917616998533858",
+                "corp_name": "pytest",
+                "user_name": "admin",
+                "role_id": "5",
+                "manage_dids": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "addr_conf": {
+                    "srv_conn": [
+                        "sshserver.91kook.cn:6000"
+                    ],
+                    "web_client": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8888",
+                            "address": "http://10.206.83.102:8888"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9090",
+                            "address": "http://10.206.83.102:9090"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_go": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9899",
+                            "address": "http://10.206.83.102:9899"
+                        }
+                    ]
+                },
+                "addr_table": [
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    },
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    }
+                ],
+                "dev_type": "7"
+            }
+        ]
+    },
+    "test_041": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938252",
+        "time_cost": "0.421",
+        "datas": [
+            {
+                "access_token": "01a1890cfe6923af",
+                "refresh_token": "83132f11f0ead444",
+                "uid": "1917616998533859",
+                "cid": "1917616998533858",
+                "corp_name": "pytest",
+                "user_name": "admin",
+                "role_id": "5",
+                "manage_dids": [
+                    {
+                        "did": "0",
+                        "name": "pytest"
+                    }
+                ],
+                "addr_conf": {
+                    "srv_conn": [
+                        "sshserver.91kook.cn:6000"
+                    ],
+                    "web_client": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8888",
+                            "address": "http://10.206.83.102:8888"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9090",
+                            "address": "http://10.206.83.102:9090"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_go": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9899",
+                            "address": "http://10.206.83.102:9899"
+                        }
+                    ]
+                },
+                "addr_table": [
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    },
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    }
+                ],
+                "dev_type": "7"
+            }
+        ]
+    },
+    "pwd_099": {
+        "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1614938252",
+        "time_cost": "0.288",
+        "datas": {
+            "corpid": "1917616998533858",
+            "corpsecret": "gq13SN3iFHk00JeUg1LjkMfw0breBrk6"
+        }
+    },
+    "case_100": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "UqG5TUROOC8djVF0ts3UlrlIeLFw3KE7"
+    },
+    "case_101": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106982113831746"
+    },
+    "case_102": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106982113831747"
+    },
+    "case_103": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106986408799044"
+    },
+    "case_104": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106986408799045"
+    },
+    "case_105": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106986408799046"
+    },
+    "case_106": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106990703766343"
+    },
+    "case_107": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106990703766344"
+    },
+    "case_108": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106990703766345"
+    },
+    "case_109": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106990703766346"
+    },
+    "case_110": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106994998733643"
+    },
+    "case_111": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106994998733644"
+    },
+    "case_112": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936106994998733645"
+    },
+    "case_113": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268651255"
+    },
+    "case_114": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268651256"
+    },
+    "case_115": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268651257"
+    },
+    "case_116": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533882"
+    },
+    "case_117": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533883"
+    },
+    "case_118": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533884"
+    },
+    "case_119": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533885"
+    },
+    "case_120": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533886"
+    },
+    "case_121": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533887"
+    },
+    "case_122": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533888"
+    },
+    "case_123": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533889"
+    },
+    "case_124": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998533890"
+    },
+    "case_125": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "groupid": "1917616998533891"
+    },
+    "case_126": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "groupid": "1917616998533892"
+    },
+    "case_127": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "groupid": "1917616998533893"
+    },
+    "case_128": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936107037948406606"
+    },
+    "case_129": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936107037948406608"
+    },
+    "case_130": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936107037948406609"
+    },
+    "case_131": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "msgid": "6936107037948406610"
+    },
+    "case_132": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_133": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "channelid": "1917616998533894"
+    }
+}

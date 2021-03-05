@@ -1,0 +1,16 @@
+{
+    "name": "带头像的成员",
+    "avatar": "60420052ee9eac0656580bdf",
+    "department": [
+        {
+            "did": "268651221",
+            "order": "2",
+            "posName": "ceo"
+        }
+    ],
+    "gender": "1",
+    "sign": "刘哥太帅了！不解释！",
+    "enName": "lucky",
+    "tel": "0215553222",
+    "mobile": "15000000000"
+}

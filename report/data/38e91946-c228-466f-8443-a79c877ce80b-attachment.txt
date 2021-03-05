@@ -1,7 +1,0 @@
-{
-    "trans_id": "8B5488713B193C3CFAC7F463B5DEB105",
-    "dev_type": "7",
-    "access_token": "a19da0d3eea57bf2",
-    "cid": "1917616998517622",
-    "operator_uid": "1917616998517623"
-}

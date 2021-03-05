@@ -1,0 +1,42 @@
+{
+    "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
+    "access_token": "41e0c4e2e8d3434f",
+    "cid": "1917616998533858",
+    "client_ver": "3.1.0",
+    "dev_type": "7",
+    "operator_uid": "1917616998533859",
+    "name": "应用9-推送可交互",
+    "desc": "应用9-推送可交互",
+    "logo_url": "",
+    "logo_media_id": "",
+    "backend_url": "",
+    "mobile_home_url": "",
+    "pc_home_url": "",
+    "callback_url": "",
+    "token": "",
+    "new_window": "0",
+    "awake": "0",
+    "awake_app": "",
+    "awake_activity": "",
+    "awake_windows": "",
+    "ios_download_url": "",
+    "android_download_url": "",
+    "windows_download_url": "",
+    "app_download_url": "",
+    "visible_scopes": [
+        {
+            "did": "0",
+            "name": "pytest"
+        }
+    ],
+    "preadd_scopes": [
+        {
+            "did": "0",
+            "name": "pytest",
+            "isExpand": "true",
+            "icon": "folder"
+        }
+    ],
+    "interactive_url": "http://localhost:12306/json",
+    "msgbtn_sync": "0"
+}
