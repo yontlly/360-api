@@ -1,0 +1,7 @@
+{
+    "appid": "1917616998535134",
+    "subject": "发送公众号-url",
+    "subtitle": "发送公众号-url",
+    "cover": "604c601dee9eac06b03fb108",
+    "url": "https://www.baidu.com/"
+}

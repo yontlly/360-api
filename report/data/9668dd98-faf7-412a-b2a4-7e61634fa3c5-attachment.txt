@@ -1,0 +1,35 @@
+{
+    "trans_id": "C5DD5B7402D8470869D6B49522734D7F",
+    "access_token": "9521983c10311f59",
+    "cid": "1917616998535118",
+    "client_ver": "3.1.0",
+    "dev_type": "7",
+    "operator_uid": "1917616998535119",
+    "name": "应用6-全选子部门",
+    "desc": "选的是pytest-dept2",
+    "visible_scopes": {
+        "0": {
+            "did": "268652501",
+            "name": "pytest-dept2"
+        }
+    },
+    "preadd_scopes": {
+        "0": {
+            "did": "268652501",
+            "name": "pytest-dept2"
+        }
+    },
+    "extend_type": "1",
+    "extend_params": {
+        "receive_scopes": {},
+        "publish_scopes": {
+            "0": {
+                "did": "268652501",
+                "name": "pytest-dept2"
+            }
+        },
+        "receive_type": "1",
+        "push_message_status": "0",
+        "new_windows_status": "0"
+    }
+}

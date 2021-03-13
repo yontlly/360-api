@@ -1,0 +1,27 @@
+{
+    "trans_id": "C5DD5B7402D8470869D6B49522734D7F",
+    "access_token": "9521983c10311f59",
+    "cid": "1917616998535118",
+    "client_ver": "3.1.0",
+    "dev_type": "7",
+    "operator_uid": "1917616998535119",
+    "name": "pytest_test2",
+    "account": "pytest_test2",
+    "dept_position": [
+        {
+            "did": "0",
+            "pos_name": ""
+        }
+    ],
+    "en_name": "",
+    "gender": "1",
+    "email": "meiqianchifa@163.com",
+    "pwd": "11111111",
+    "tel": "",
+    "mobile": "",
+    "role_id": "20",
+    "avatar": "",
+    "desp": "",
+    "custom_data": {},
+    "deptDatas": []
+}

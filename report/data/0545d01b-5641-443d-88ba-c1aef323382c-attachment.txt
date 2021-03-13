@@ -1,0 +1,64 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "K0pilA00kHkDJKyZOxMVk0cVkYXlRyQJ"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "XjcvX698KglK8hsLWDecILreRxAMzqJf"
+    },
+    "case_004": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_008": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_009": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268652480"
+    },
+    "case_010": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_011": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_012": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998535105"
+    },
+    "case_013": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_014": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_015": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_016": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_017": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    }
+}

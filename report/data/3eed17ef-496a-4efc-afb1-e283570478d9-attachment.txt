@@ -1,0 +1,10 @@
+{
+    "datas": {
+        "creator_cid": "1917616998535118",
+        "account": "pytest_test1",
+        "title": "创建日程2-简单日程",
+        "start_time": "1616396241",
+        "end_time": "1616486246",
+        "client_id": "39af6c4e-83c8-11eb-9b2f-acde48001122"
+    }
+}

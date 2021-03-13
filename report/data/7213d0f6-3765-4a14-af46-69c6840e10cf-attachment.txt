@@ -1,0 +1,26 @@
+{
+    "datas": {
+        "creator_cid": "1917616998535118",
+        "account": "pytest_test1",
+        "title": "简单日程2-提醒我与参与人参与(多人)",
+        "start_time": "1616946241",
+        "end_time": "1617036246",
+        "reminder_time": "3600",
+        "reminder_who": "0",
+        "uids": [
+            {
+                "account": "pytest_test2"
+            },
+            {
+                "account": "pytest_test3"
+            },
+            {
+                "account": "pytest_test4"
+            },
+            {
+                "account": "pytest_test5"
+            }
+        ],
+        "client_id": "3b26b91a-83c8-11eb-9b2f-acde48001122"
+    }
+}

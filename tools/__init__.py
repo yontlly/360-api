@@ -11,7 +11,7 @@ import json
 import re
 
 import allure
-
+import uuid
 from jsonpath import jsonpath
 from loguru import logger
 
@@ -54,7 +54,10 @@ def rep_expr(content: str, data: dict, expr: str = '&(.*?)&') -> str:
     # 解决运算问题，实现+ -等常规数学运算， 用例书写格式{"uid":eval`&$.pid&+1`}
     for e in re.findall('eval`(.*)`', content):
         content = content.replace(f'eval`{e}`', str(eval(e)))
+    for s in re.findall('UUID', content):
+        content = content.replace(f'UUID',str(uuid.uuid1()))
     return content
+
 # {
 #     "trans_id":"&$.test_002.trans_id&",
 #     "access_token":"&$.test_003..datas[0].access_token&",

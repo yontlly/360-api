@@ -1,0 +1,24 @@
+{
+    "datas": {
+        "creator_cid": "1917616998535118",
+        "account": "pytest_test1",
+        "title": "创建日程-简单日程 -多个参与人",
+        "start_time": "1616066241",
+        "end_time": "1616156246",
+        "client_id": "375425ac-83c8-11eb-9b2f-acde48001122",
+        "uids": [
+            {
+                "account": "pytest_test2"
+            },
+            {
+                "account": "pytest_test3"
+            },
+            {
+                "account": "pytest_test4"
+            },
+            {
+                "account": "pytest_test5"
+            }
+        ]
+    }
+}

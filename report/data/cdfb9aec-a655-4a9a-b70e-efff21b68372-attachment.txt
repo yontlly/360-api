@@ -1,6 +1,0 @@
-{
-    "trans_id": "11C9FB736C1DF5A643092ACF67103A09",
-    "account": "YWRtaW4=",
-    "password": "JTI1NDU2VHhCcA==",
-    "account_type": "1"
-}

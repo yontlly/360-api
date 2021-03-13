@@ -1,0 +1,15 @@
+{
+    "appid": "1917616998535134",
+    "access_token": "Kgm9uSW96hIZXkbT0z1zGOyWS0LZczFR",
+    "to_users": [
+        "1917616998535126",
+        "1917616998535127",
+        "1917616998535120",
+        "1917616998535121"
+    ],
+    "type": "file",
+    "message": {
+        "media_id": "604c601fee9eac06ac2d63c3"
+    },
+    "msg_status": "1"
+}

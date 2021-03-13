@@ -1,3 +1,0 @@
-{
-    "access_token": "lM1yMUxH4EMWFlGzn88sxszGrjUDs5ZU"
-}

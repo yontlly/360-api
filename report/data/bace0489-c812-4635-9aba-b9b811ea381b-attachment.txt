@@ -1,0 +1,15 @@
+{
+    "trans_id": "7F82BB9AB9C901E1CDC97B28C59A2E6D",
+    "access_token": "f6fc9e1f0cb67df8",
+    "uid": "1917616998535123",
+    "cid": "1917616998535118",
+    "client_ver": "5.0.0",
+    "dev_type": "5",
+    "user_info": {
+        "uid": "1917616998535123",
+        "cid": "1917616998535118",
+        "new_password": "Liu123123",
+        "old_password": "1bbd886460827015e5d605ed44252251"
+    },
+    "reset_type": "3"
+}
