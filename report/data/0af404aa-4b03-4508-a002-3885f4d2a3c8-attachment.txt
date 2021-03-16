@@ -1,0 +1,68 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": [
+        {
+            "_id": "60503f4eee9eac067b4c9244",
+            "rid": "483",
+            "cid": "1917616998535422",
+            "title": "修改日程-简单日程2-修改为需要确认",
+            "startTime": "1615871822",
+            "endTime": "1615875422",
+            "fullDay": "0",
+            "level": "1",
+            "reminderTime": "4800",
+            "reminderWho": "2",
+            "repeat": "3",
+            "uids": [
+                {
+                    "account": "pytest_test2",
+                    "uid": "1917616998535425",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                },
+                {
+                    "account": "pytest_test3",
+                    "uid": "1917616998535427",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                },
+                {
+                    "account": "pytest_test4",
+                    "uid": "1917616998535428",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                },
+                {
+                    "account": "pytest_test5",
+                    "uid": "1917616998535430",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                }
+            ],
+            "creatorCid": "1917616998535422",
+            "creatorUid": "1917616998535424",
+            "creatorName": "pytest_test1",
+            "remark": "修改日程-简单日程2-修改为需要确认",
+            "action": "1",
+            "clientId": "d6febd2e-8616-11eb-8c1e-acde48001122",
+            "confirm": "0",
+            "team": "1",
+            "privacy": "0",
+            "created": "1615871822",
+            "updated": "1615871828",
+            "reminderUc": "2",
+            "address": "",
+            "attachments": [],
+            "data_no_landing": "0",
+            "preview_water_mark": "0",
+            "errCode": "0",
+            "errMsg": "成功",
+            "no_authority_uid_list": []
+        }
+    ]
+}

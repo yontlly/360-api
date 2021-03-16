@@ -1,0 +1,55 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": [
+        {
+            "logo_url": "http://10.206.83.102:8989/uploads/image/20210127/d3/d31318766f555357662bde133cbf5c11.jpeg",
+            "logo_media_id": "60503ef0ee9eac06ec7abbd0",
+            "name": "修改后的频道1",
+            "desc": "修改后的频道1-描述",
+            "channelid": "1917616998535458",
+            "apps": []
+        },
+        {
+            "logo_url": "http://10.206.83.102:8989/uploads/image/20210127/d3/d31318766f555357662bde133cbf5c11.jpeg",
+            "logo_media_id": "60503ef0ee9eac06ec7abbd0",
+            "name": "新建消息频道-2",
+            "desc": "消息频道2-描述",
+            "channelid": "1917616998535459",
+            "apps": [
+                {
+                    "logo_url": "",
+                    "logo_media_id": "",
+                    "name": "应用5-全选",
+                    "desc": "应用5-全选",
+                    "app_config": [],
+                    "appid": "1917616998535438"
+                },
+                {
+                    "logo_url": "",
+                    "logo_media_id": "",
+                    "name": "应用7-私密全选",
+                    "desc": "应用7-私密全选",
+                    "app_config": [],
+                    "appid": "1917616998535440"
+                },
+                {
+                    "logo_url": "",
+                    "logo_media_id": "",
+                    "name": "应用8-私密-py5",
+                    "desc": "发布范围私密 -py5",
+                    "app_config": [],
+                    "appid": "1917616998535441"
+                },
+                {
+                    "logo_url": "",
+                    "logo_media_id": "",
+                    "name": "应用9-推送可交互",
+                    "desc": "应用9-推送可交互",
+                    "app_config": [],
+                    "appid": "1917616998535442"
+                }
+            ]
+        }
+    ]
+}

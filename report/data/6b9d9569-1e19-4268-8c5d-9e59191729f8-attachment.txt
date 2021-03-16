@@ -1,0 +1,54 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": [
+        {
+            "_id": "60503f4bee9eac069a6a16d5",
+            "rid": "477",
+            "cid": "1917616998535422",
+            "title": "修改日程-简单日程2-减少参与人",
+            "startTime": "1615871819",
+            "endTime": "1615875419",
+            "fullDay": "0",
+            "level": "1",
+            "reminderTime": "900",
+            "reminderWho": "0",
+            "repeat": "5",
+            "uids": [
+                {
+                    "account": "pytest_test2",
+                    "uid": "1917616998535425",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                },
+                {
+                    "account": "pytest_test5",
+                    "uid": "1917616998535430",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                }
+            ],
+            "creatorCid": "1917616998535422",
+            "creatorUid": "1917616998535424",
+            "creatorName": "pytest_test1",
+            "remark": "修改日程-简单日程2-减少参与人",
+            "action": "1",
+            "clientId": "d53acb72-8616-11eb-8c1e-acde48001122",
+            "confirm": "0",
+            "team": "1",
+            "privacy": "0",
+            "created": "1615871819",
+            "updated": "1615871824",
+            "reminderUc": "2",
+            "address": "",
+            "attachments": [],
+            "data_no_landing": "0",
+            "preview_water_mark": "0",
+            "errCode": "0",
+            "errMsg": "成功",
+            "no_authority_uid_list": []
+        }
+    ]
+}

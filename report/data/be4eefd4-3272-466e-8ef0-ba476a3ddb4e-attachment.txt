@@ -1,5 +1,0 @@
-{
-    "errcode": "0",
-    "errmsg": "成功",
-    "officalmsgid": "604c6064ee9eac06cc302281"
-}

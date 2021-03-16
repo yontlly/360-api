@@ -1,0 +1,8 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "type": "file",
+    "media_id": "60503ef2ee9eac123b414fdd",
+    "media_url": "http://10.206.83.102:8989/uploads/file/20201226/94/94f65cc19519817f682d254378a97835.pdf",
+    "created_at": "1615871730"
+}

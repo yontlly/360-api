@@ -1,0 +1,7 @@
+{
+    "appid": "1917616998535438",
+    "subject": "发送公众号",
+    "subtitle": "发送公众号",
+    "cover": "60503ef0ee9eac06ec7abbd0",
+    "content": "这里只是发送公众号的测试内容"
+}

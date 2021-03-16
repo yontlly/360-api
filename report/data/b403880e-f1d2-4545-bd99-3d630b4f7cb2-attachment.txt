@@ -1,0 +1,16 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "EBYI3dtX6QhjAM5exG8Tdp1JfKVAVoAf"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "FfZexGVesK6DTlj2Cenhy8MYI1M6Cw2D"
+    }
+}

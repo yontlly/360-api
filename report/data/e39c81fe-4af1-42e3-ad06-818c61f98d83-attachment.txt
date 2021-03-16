@@ -1,0 +1,16 @@
+{
+    "appid": "1917616998535438",
+    "access_token": "1LM2z5gmIbaBn5gD3qDWe6diTZis7IVF",
+    "to_users": [
+        "1917616998535430",
+        "1917616998535431",
+        "1917616998535424",
+        "1917616998535425"
+    ],
+    "type": "audio",
+    "message": {
+        "media_id": "60503ef0ee9eac06bb2007d4",
+        "duration": 10
+    },
+    "msg_status": "1"
+}

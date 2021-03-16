@@ -1,0 +1,66 @@
+{
+    "err_code": "0",
+    "err_msg": "成功",
+    "datas": {
+        "_id": "60503f46ee9eac071c68bbf1",
+        "rid": "468",
+        "cid": "1917616998535422",
+        "title": "创建日程-简单日程 -多个参与人",
+        "startTime": "1615871814",
+        "endTime": "1615875414",
+        "fullDay": "0",
+        "level": "1",
+        "reminderTime": "900",
+        "reminderWho": "0",
+        "repeat": "0",
+        "uids": [
+            {
+                "account": "pytest_test2",
+                "uid": "1917616998535425",
+                "confirm": "1",
+                "reminder": "1",
+                "reminder_time": "0"
+            },
+            {
+                "account": "pytest_test3",
+                "uid": "1917616998535427",
+                "confirm": "1",
+                "reminder": "1",
+                "reminder_time": "0"
+            },
+            {
+                "account": "pytest_test4",
+                "uid": "1917616998535428",
+                "confirm": "1",
+                "reminder": "1",
+                "reminder_time": "0"
+            },
+            {
+                "account": "pytest_test5",
+                "uid": "1917616998535430",
+                "confirm": "1",
+                "reminder": "1",
+                "reminder_time": "0"
+            }
+        ],
+        "creatorCid": "1917616998535422",
+        "creatorUid": "1917616998535424",
+        "creatorName": "pytest_test1",
+        "remark": "",
+        "action": "0",
+        "clientId": "d23efc9a-8616-11eb-8c1e-acde48001122",
+        "confirm": "0",
+        "team": "1",
+        "privacy": "0",
+        "created": "1615871814",
+        "updated": "1615871814",
+        "reminderUc": "1",
+        "address": "",
+        "attachments": [],
+        "data_no_landing": "0",
+        "preview_water_mark": "0",
+        "errCode": "0",
+        "noAuthorityUidList": [],
+        "userUc": "2"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": [
+        {
+            "_id": "60503f4aee9eac06d5358c27",
+            "rid": "476",
+            "cid": "1917616998535422",
+            "title": "修改日程-简单日程2-更改名字备注",
+            "startTime": "1615871818",
+            "endTime": "1615875418",
+            "fullDay": "0",
+            "level": "1",
+            "reminderTime": "900",
+            "reminderWho": "0",
+            "repeat": "5",
+            "uids": [],
+            "creatorCid": "1917616998535422",
+            "creatorUid": "1917616998535424",
+            "creatorName": "pytest_test1",
+            "remark": "备注",
+            "action": "1",
+            "clientId": "d4fe7618-8616-11eb-8c1e-acde48001122",
+            "confirm": "0",
+            "team": "0",
+            "privacy": "0",
+            "created": "1615871818",
+            "updated": "1615871823",
+            "reminderUc": "2",
+            "address": "",
+            "attachments": [],
+            "data_no_landing": "0",
+            "preview_water_mark": "0",
+            "errCode": "0",
+            "errMsg": "成功",
+            "no_authority_uid_list": []
+        }
+    ]
+}

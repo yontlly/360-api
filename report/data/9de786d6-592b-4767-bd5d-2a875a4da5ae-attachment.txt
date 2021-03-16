@@ -1,4 +1,0 @@
-{
-    "corpid": "1917616998535118",
-    "corpsecret": "98NJMjiodMUq5mEReVEoafq7JNmyobxj"
-}
