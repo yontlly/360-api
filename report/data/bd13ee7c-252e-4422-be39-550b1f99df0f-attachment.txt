@@ -1,0 +1,15 @@
+{
+    "appid": "1917616998535996",
+    "access_token": "ptmU0uI1MrgRctidLac6dLgEsTajpmQE",
+    "to_users": [
+        "1917616998535988",
+        "1917616998535989",
+        "1917616998535982",
+        "1917616998535983"
+    ],
+    "type": "text",
+    "message": {
+        "content": "测试这个频道消息"
+    },
+    "msg_status": "1"
+}

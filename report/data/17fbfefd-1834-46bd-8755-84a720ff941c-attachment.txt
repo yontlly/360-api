@@ -1,0 +1,11 @@
+{
+    "appid": "1917616998535996",
+    "subject": "发送公众号-带附件,正文",
+    "subtitle": "发送公众号-带附件,正文",
+    "cover": "6052c864ee9eac07050e2917",
+    "content": "这里只是发送公众号的测试内容",
+    "attachments": [
+        "6052c865ee9eac7ebd34d2b2",
+        "6052c865ee9eac065c6d0c7f"
+    ]
+}

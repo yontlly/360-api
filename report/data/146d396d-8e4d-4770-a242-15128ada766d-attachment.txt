@@ -1,5 +1,0 @@
-{
-    "errcode": "0",
-    "errmsg": "成功",
-    "access_token": "1LM2z5gmIbaBn5gD3qDWe6diTZis7IVF"
-}

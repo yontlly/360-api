@@ -1,0 +1,29 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "deptCount": "2",
+    "pageCount": "1",
+    "nextPage": "1",
+    "datas": [
+        {
+            "did": "268649943",
+            "name": "群相关依赖部门",
+            "desp": "",
+            "tel": "",
+            "pid": "0",
+            "order": "0",
+            "has_child": "false",
+            "child": "false"
+        },
+        {
+            "did": "268653342",
+            "name": "更新的部门",
+            "desp": "",
+            "tel": "",
+            "pid": "0",
+            "order": "0",
+            "has_child": "false",
+            "child": "false"
+        }
+    ]
+}

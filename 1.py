@@ -1,24 +1,146 @@
-{
-    "appid":"3360176254038201",
-    "accounts":[
-        "liucx1"
-    ],
-    "to_users":[],
-    "to_depts":[],
-    "type":"text",
-    "message":{
-        "content":"您有一封新邮件，请注意查收"
-    },
-    "msg_status":"1"
-}
+"card":{
+            "msgtotal":"1",
+            "title":"⻓⽂本-小号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "long_text":[
+                {
+                    "text":"⻓⽂本-小号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"1",
+                    "rows":"1",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }
 
-{
-    "appid":"3360176254038201",
-    "to_users":[
-        "3360176254038200"
-    ],
-    "type":"text",
-    "message":{
-        "content":kk
-    }
-}
+"card":{
+            "msgtotal":"1",
+            "title":"⻓⽂本-中号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "long_text":[
+                {
+                    "text":"⻓⽂本-中号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"2",
+                    "rows":"1",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }
+
+"card":{
+            "msgtotal":"1",
+            "title":"⻓⽂本-大号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "long_text":[
+                {
+                    "text":"⻓⽂本-大号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"3",
+                    "rows":"1",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }
+
+111111111111111111111111111111111
+
+
+"card":{
+            "msgtotal":"1",
+            "title":"短⽂本-左对齐-小号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "short_text":[
+                {
+                    "text":"短⽂本-左对齐-小号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"1",
+                    "align":"1",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }
+
+"card":{
+            "msgtotal":"1",
+            "title":"短⽂本-居中-小号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "short_text":[
+                {
+                    "text":"短⽂本-居中-小号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"1",
+                    "align":"2",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }
+
+"card":{
+            "msgtotal":"1",
+            "title":"短⽂本-右边对齐-小号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "short_text":[
+                {
+                    "text":"短⽂本-右边对齐-小号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"1",
+                    "align":"2",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }
+
+"card":{
+            "msgtotal":"1",
+            "title":"短⽂本-右边对齐-中号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "short_text":[
+                {
+                    "text":"短⽂本-右边对齐-中号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"2",
+                    "align":"2",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }
+
+"card":{
+            "msgtotal":"1",
+            "title":"短⽂本-居中-大号",
+            "tcolor":"#3AA3E3",
+            "url":"viewpage.action?pageId=9701578",
+            "notice":"1",
+            "click_to_delete":"1",
+            "short_text":[
+                {
+                    "text":"短⽂本-居中-大号",
+                    "tcolor":"#3AA3E3",
+                    "fontsize":"3",
+                    "align":"2",
+                    "url":"long_text&type=card"
+                }
+            ]
+        }

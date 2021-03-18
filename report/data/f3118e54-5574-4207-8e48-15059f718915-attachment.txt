@@ -1,7 +1,0 @@
-{
-    "trans_id": "2DEDE05F77D89F7E096EFABF687C27D6",
-    "master_token": "c3e9493481d1b979b30356cd875e11bb",
-    "cn_name": "pytest",
-    "admin_name": "admin",
-    "max_user_num": "100"
-}

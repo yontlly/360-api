@@ -1,0 +1,68 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": [
+        {
+            "_id": "6052c8b2ee9eac066b6c71f6",
+            "rid": "665",
+            "cid": "1917616998535980",
+            "title": "修改日程-简单日程2-设置为团队日程",
+            "startTime": "1616038066",
+            "endTime": "1616041666",
+            "fullDay": "0",
+            "level": "1",
+            "reminderTime": "4800",
+            "reminderWho": "2",
+            "repeat": "5",
+            "uids": [
+                {
+                    "account": "pytest_test2",
+                    "uid": "1917616998535983",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                },
+                {
+                    "account": "pytest_test3",
+                    "uid": "1917616998535985",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                },
+                {
+                    "account": "pytest_test4",
+                    "uid": "1917616998535986",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                },
+                {
+                    "account": "pytest_test5",
+                    "uid": "1917616998535988",
+                    "confirm": "1",
+                    "reminder": "1",
+                    "reminder_time": "0"
+                }
+            ],
+            "creatorCid": "1917616998535980",
+            "creatorUid": "1917616998535982",
+            "creatorName": "pytest_test1",
+            "remark": "修改日程-简单日程2-设置为团队日程",
+            "action": "1",
+            "clientId": "e864d4ca-8799-11eb-8239-acde48001122",
+            "confirm": "0",
+            "team": "1",
+            "privacy": "0",
+            "created": "1616038066",
+            "updated": "1616038072",
+            "reminderUc": "2",
+            "address": "",
+            "attachments": [],
+            "data_no_landing": "0",
+            "preview_water_mark": "0",
+            "errCode": "0",
+            "errMsg": "成功",
+            "no_authority_uid_list": []
+        }
+    ]
+}
