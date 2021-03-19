@@ -1,7 +1,0 @@
-{
-    "trans_id": "36AD184E32645244A94419D32528D7A6",
-    "err_code": "0",
-    "err_msg": "成功",
-    "timestamp": "1616038033",
-    "time_cost": "0.448"
-}
