@@ -1,0 +1,26 @@
+{
+    "datas": {
+        "rid": "null",
+        "account": "pytest_test1",
+        "title": "修改日程-简单日程2-修改为需要确认",
+        "repeat": "3",
+        "reminder_time": "4800",
+        "reminder_who": "2",
+        "confirm": "1",
+        "uids": [
+            {
+                "account": "pytest_test2"
+            },
+            {
+                "account": "pytest_test3"
+            },
+            {
+                "account": "pytest_test4"
+            },
+            {
+                "account": "pytest_test5"
+            }
+        ],
+        "remark": "修改日程-简单日程2-修改为需要确认"
+    }
+}

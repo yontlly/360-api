@@ -1,0 +1,30 @@
+{
+    "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+    "access_token": "5088cfcba0c02dac",
+    "cid": "1917616998539159",
+    "client_ver": "3.1.0",
+    "dev_type": "7",
+    "operator_uid": "1917616998539160",
+    "name": "应用1-预添加选择部门",
+    "desc": "应用介绍",
+    "visible_scopes": {
+        "0": {
+            "did": "0",
+            "name": "pytest"
+        }
+    },
+    "preadd_scopes": {
+        "0": {
+            "did": "0",
+            "name": "pytest"
+        }
+    },
+    "extend_type": "1",
+    "extend_params": {
+        "receive_scopes": {},
+        "publish_scopes": {},
+        "receive_type": "1",
+        "push_message_status": "0",
+        "new_windows_status": "0"
+    }
+}

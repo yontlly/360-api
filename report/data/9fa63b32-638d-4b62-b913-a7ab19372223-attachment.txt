@@ -1,0 +1,57 @@
+{
+    "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+    "err_code": "0",
+    "err_msg": "成功",
+    "timestamp": "1622542344",
+    "time_cost": "0.033",
+    "datas": [
+        {
+            "master_name": "云管理员",
+            "master_token": "867ff123e798c66a2856f64ff7fa3b00",
+            "master_token_expire_time": "86400",
+            "addr_conf": {
+                "web_client": [
+                    {
+                        "scheme": "http",
+                        "host": "10.206.83.102",
+                        "port": "8282",
+                        "address": "http://10.206.83.102:8282"
+                    }
+                ],
+                "web_open": [
+                    {
+                        "scheme": "http",
+                        "host": "10.206.83.102",
+                        "port": "8888",
+                        "address": "http://10.206.83.102:8888"
+                    }
+                ],
+                "srv_push": [
+                    {
+                        "scheme": "http",
+                        "host": "10.206.83.102",
+                        "port": "9090",
+                        "address": "http://10.206.83.102:9090"
+                    }
+                ],
+                "web_fed": [
+                    {
+                        "scheme": "http",
+                        "host": "10.206.83.102",
+                        "port": "8282",
+                        "address": "http://10.206.83.102:8282"
+                    }
+                ],
+                "web_go": [
+                    {
+                        "scheme": "http",
+                        "host": "10.206.83.102",
+                        "port": "9899",
+                        "address": "http://10.206.83.102:9899"
+                    }
+                ]
+            },
+            "inited": "1"
+        }
+    ]
+}

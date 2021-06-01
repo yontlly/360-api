@@ -1,0 +1,47 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "NAbE8g0z3AFN9zzz2fwCLlUbnTzZlJYt"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "BPqSdtwyLtMe0h9zGlkFyHVwO4OFArnf"
+    },
+    "case_004": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_005": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "cid": "1917616998539146",
+            "admin_account": "kaifang",
+            "admin_uid": "1917616998539147"
+        }
+    },
+    "case_006": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_007": {
+        "errcode": "10000003",
+        "errmsg": "未知错误"
+    },
+    "case_008": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "key": "dwaw",
+                "title": "啊哈我的"
+            }
+        ]
+    }
+}

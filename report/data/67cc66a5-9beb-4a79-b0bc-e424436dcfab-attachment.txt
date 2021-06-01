@@ -1,0 +1,176 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "NAbE8g0z3AFN9zzz2fwCLlUbnTzZlJYt"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "BPqSdtwyLtMe0h9zGlkFyHVwO4OFArnf"
+    },
+    "case_004": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_005": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "cid": "1917616998539146",
+            "admin_account": "kaifang",
+            "admin_uid": "1917616998539147"
+        }
+    },
+    "case_006": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_007": {
+        "errcode": "10000003",
+        "errmsg": "未知错误"
+    },
+    "case_008": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "key": "dwaw",
+                "title": "啊哈我的"
+            }
+        ]
+    },
+    "case_009": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268656524"
+    },
+    "case_010": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_011": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_012": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_013": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_014": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_015": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_016": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_017": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_018": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "0",
+        "pageCount": "0",
+        "nextPage": "0",
+        "datas": []
+    },
+    "case_019": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "5",
+        "pageCount": "1",
+        "nextPage": "1",
+        "datas": [
+            {
+                "did": "268649943",
+                "name": "群相关依赖部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654184",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654217",
+                "name": "上海研发部",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656338",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656524",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            }
+        ]
+    },
+    "case_020": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268656524",
+        "name": "更新的部门",
+        "desp": "",
+        "tel": "",
+        "pid": "0",
+        "order": "0",
+        "has_child": "false",
+        "dept_group": "false"
+    },
+    "case_021": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_022": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "image",
+        "media_id": "60b607f1ee9eac637a6eb678",
+        "media_url": "http://10.206.83.102:8989/uploads/image/20210519/d3/d31318766f555357662bde133cbf5c11.jpeg",
+        "created_at": "1622542321"
+    }
+}

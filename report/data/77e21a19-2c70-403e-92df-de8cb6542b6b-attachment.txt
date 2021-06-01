@@ -1,0 +1,11 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": {
+        "groupid": "1917616998539158",
+        "name": "修改后的群聊名",
+        "hostUid": "0",
+        "hostName": "",
+        "count": "0"
+    }
+}

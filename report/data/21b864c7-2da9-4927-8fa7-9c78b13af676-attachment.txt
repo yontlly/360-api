@@ -1,8 +1,0 @@
-{
-    "trans_id": "A3F808EEEAE7E51AF131953BB695B036",
-    "err_code": "0",
-    "err_msg": "成功",
-    "timestamp": "1616132006",
-    "time_cost": "0.037",
-    "pwd_security_level": "1"
-}

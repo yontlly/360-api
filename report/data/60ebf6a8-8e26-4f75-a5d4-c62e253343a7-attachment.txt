@@ -1,0 +1,81 @@
+{
+    "appid": "1917616998539177",
+    "access_token": "None",
+    "to_users": [
+        "1917616998539167",
+        "1917616998539168",
+        "1917616998539161",
+        "1917616998539162"
+    ],
+    "type": "attachment",
+    "msg_status": "1",
+    "message": {
+        "id": "594ccc6d20e01c077b5c9013",
+        "avatartype": 1,
+        "head": {
+            "text": "时间选择器的测试",
+            "bgcolor": "FF0000",
+            "tcolor": "FF0000"
+        },
+        "body": {
+            "title": "type类型为datepicker",
+            "content": "可交互式消息",
+            "image": "60b607f1ee9eac637a6eb678"
+        },
+        "fields": [
+            {
+                "name": "时间选择器-年⽉⽇时分",
+                "input": {
+                    "type": "datepicker",
+                    "name": "时间选择器-年⽉⽇时分",
+                    "childtype": 0,
+                    "datepicker": 1524648199,
+                    "mindate": 1514736000,
+                    "maxdate": 1557417600
+                }
+            },
+            {
+                "name": "时间选择器-年⽉⽇",
+                "input": {
+                    "type": "datepicker",
+                    "name": "时间选择器-年⽉⽇",
+                    "childtype": 1,
+                    "datepicker": 1524648199,
+                    "mindate": 1514736000,
+                    "maxdate": 1557417600
+                }
+            },
+            {
+                "name": "时间选择器-时分",
+                "input": {
+                    "type": "datepicker",
+                    "name": "时间选择器-时分",
+                    "childtype": 2,
+                    "datepicker": 1524648199,
+                    "mindate": 1514736000,
+                    "maxdate": 1557417600
+                }
+            }
+        ],
+        "action": [
+            {
+                "name": "confirm",
+                "value": "业务透传数据",
+                "text": "提交",
+                "color": "0F82F0",
+                "confirm": {
+                    "title": "确定提交吗",
+                    "content": "",
+                    "ok": "确定",
+                    "cancel": "取消"
+                }
+            },
+            {
+                "name": "cancel",
+                "value": "业务透传数据",
+                "text": "取消",
+                "color": "979CA4"
+            }
+        ]
+    }
+}

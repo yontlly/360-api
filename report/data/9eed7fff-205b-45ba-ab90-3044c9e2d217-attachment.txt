@@ -1,0 +1,20 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "NAbE8g0z3AFN9zzz2fwCLlUbnTzZlJYt"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "BPqSdtwyLtMe0h9zGlkFyHVwO4OFArnf"
+    },
+    "case_004": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    }
+}

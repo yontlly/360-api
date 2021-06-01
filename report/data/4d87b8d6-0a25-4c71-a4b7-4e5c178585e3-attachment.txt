@@ -1,0 +1,219 @@
+{
+    "trans_id": "E8434B178CE6B759CF0DEF555C26AB1B",
+    "err_code": "0",
+    "err_msg": "everything is succeed.",
+    "timestamp": "1622542438",
+    "time_cost": "0.116",
+    "account_type": "1",
+    "access_token": "fb267599f0347e40",
+    "refresh_token": "bfb9e3a4b1d834fd",
+    "expire_time": "1625134438",
+    "cids": [
+        "1917616998539159"
+    ],
+    "init_flag": "0",
+    "license_remain_time": "30818400",
+    "dev_type": "5",
+    "uid": "1917616998539164",
+    "addr_conf": {
+        "srv_conn": [
+            "10.206.83.102:5000"
+        ],
+        "web_client": [
+            {
+                "scheme": "http",
+                "host": "10.206.83.102",
+                "port": "8282",
+                "address": "http://10.206.83.102:8282"
+            }
+        ],
+        "web_open": [
+            {
+                "scheme": "http",
+                "host": "10.206.83.102",
+                "port": "8888",
+                "address": "http://10.206.83.102:8888"
+            }
+        ],
+        "srv_push": [
+            {
+                "scheme": "http",
+                "host": "10.206.83.102",
+                "port": "9090",
+                "address": "http://10.206.83.102:9090"
+            }
+        ],
+        "web_fed": [
+            {
+                "scheme": "http",
+                "host": "10.206.83.102",
+                "port": "8282",
+                "address": "http://10.206.83.102:8282"
+            }
+        ],
+        "web_go": [
+            {
+                "scheme": "http",
+                "host": "10.206.83.102",
+                "port": "9899",
+                "address": "http://10.206.83.102:9899"
+            }
+        ]
+    },
+    "addr_table": [
+        {
+            "addr_conf": {
+                "relay_conn": [
+                    "10.206.83.102:20000"
+                ],
+                "web_go": [
+                    {
+                        "address": "http://<COND_IP>:9899",
+                        "scheme": "http",
+                        "port": "9899",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_fed": [
+                    {
+                        "address": "http://<COND_IP>:8282",
+                        "scheme": "http",
+                        "port": "8282",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "srv_push": [
+                    {
+                        "address": "http://<COND_IP>:9090",
+                        "scheme": "http",
+                        "port": "9090",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_client": [
+                    {
+                        "address": "http://<COND_IP>:8282",
+                        "scheme": "http",
+                        "port": "8282",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_open": [
+                    {
+                        "address": "http://<COND_IP>:8888",
+                        "scheme": "http",
+                        "port": "8888",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_manage": [
+                    {
+                        "port": "8787",
+                        "address": "http://<COND_IP>:8787",
+                        "scheme": "http",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_file": [
+                    {
+                        "port": "8989",
+                        "address": "http://<COND_IP>:8989",
+                        "scheme": "http",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "srv_conn": [
+                    "10.206.83.102:5000"
+                ]
+            }
+        },
+        {
+            "addr_conf": {
+                "relay_conn": [
+                    "10.206.83.102:20000"
+                ],
+                "web_go": [
+                    {
+                        "address": "http://<COND_IP>:9899",
+                        "scheme": "http",
+                        "port": "9899",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_fed": [
+                    {
+                        "address": "http://<COND_IP>:8282",
+                        "scheme": "http",
+                        "port": "8282",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "srv_push": [
+                    {
+                        "address": "http://<COND_IP>:9090",
+                        "scheme": "http",
+                        "port": "9090",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_client": [
+                    {
+                        "address": "http://<COND_IP>:8282",
+                        "scheme": "http",
+                        "port": "8282",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_open": [
+                    {
+                        "address": "http://<COND_IP>:8888",
+                        "scheme": "http",
+                        "port": "8888",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_manage": [
+                    {
+                        "port": "8787",
+                        "address": "http://<COND_IP>:8787",
+                        "scheme": "http",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "web_file": [
+                    {
+                        "port": "8989",
+                        "address": "http://<COND_IP>:8989",
+                        "scheme": "http",
+                        "host": "<COND_IP>"
+                    }
+                ],
+                "srv_conn": [
+                    "10.206.83.102:5000"
+                ]
+            }
+        }
+    ],
+    "https_filter_conf": {
+        "white": [
+            "*"
+        ],
+        "black": [
+            "file/upload",
+            "file/get",
+            "file/query",
+            "file/delete",
+            "file/upload_avatar",
+            "file/get_avatar",
+            "file/uploadLog",
+            "file/batch/get_avatar",
+            ":8888"
+        ]
+    },
+    "login_method": "1",
+    "encrypt_option": {
+        "public_key": "LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF3UkRmM1RvdC96eStkUTNleS9tbQpNRWFNdTFMN1VjMTh6R1pHSnFvbWt3dm40NGFOR2FoejNuSkpDQ2ZSVXNwRHdGRlZHZ2htTk1mTmczQXVkbDVvCjBFQ3hqaG1VSmtaVjR0ZkZhSDlKTDlQdUJaQzROY3paM05pL3VpMWo5WU01T3NQMHBVcmdOSGVIbmdRYUs5cEYKNXk1UWNKaEVsZmdEN09vOHhmOHJkWFBObURWMVcvZTZPNkt0ZWpHVG9wemtmWkpVWjJoRStjMGVsU0QyNDIxbgpWSHcvRlRhcEFUb0dHSmZrclA5M24vQ0twVUMyT2lvT3JzdndSSDhNSURoaFloZUoyNTkxRGNtR0ZYNHJNd2dmCnpFdm44dW9oNnQ5NHF3cG5pb3dRTkw4T3pHL1RCbllPZDBFL2tzSW0wNFpHL1M2YVJaRzhsMFpiaDVNWitSYUwKNXdJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg==",
+        "type": "rsa"
+    },
+    "corp_type": "0"
+}

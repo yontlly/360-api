@@ -1,0 +1,1242 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "NAbE8g0z3AFN9zzz2fwCLlUbnTzZlJYt"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "BPqSdtwyLtMe0h9zGlkFyHVwO4OFArnf"
+    },
+    "case_004": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_005": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "cid": "1917616998539146",
+            "admin_account": "kaifang",
+            "admin_uid": "1917616998539147"
+        }
+    },
+    "case_006": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_007": {
+        "errcode": "10000003",
+        "errmsg": "未知错误"
+    },
+    "case_008": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "key": "dwaw",
+                "title": "啊哈我的"
+            }
+        ]
+    },
+    "case_009": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268656524"
+    },
+    "case_010": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_011": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_012": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_013": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_014": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_015": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_016": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_017": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_018": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "0",
+        "pageCount": "0",
+        "nextPage": "0",
+        "datas": []
+    },
+    "case_019": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "5",
+        "pageCount": "1",
+        "nextPage": "1",
+        "datas": [
+            {
+                "did": "268649943",
+                "name": "群相关依赖部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654184",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654217",
+                "name": "上海研发部",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656338",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656524",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            }
+        ]
+    },
+    "case_020": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268656524",
+        "name": "更新的部门",
+        "desp": "",
+        "tel": "",
+        "pid": "0",
+        "order": "0",
+        "has_child": "false",
+        "dept_group": "false"
+    },
+    "case_021": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_022": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "image",
+        "media_id": "60b607f1ee9eac637a6eb678",
+        "media_url": "http://10.206.83.102:8989/uploads/image/20210519/d3/d31318766f555357662bde133cbf5c11.jpeg",
+        "created_at": "1622542321"
+    },
+    "case_023": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "audio",
+        "media_id": "60b607f1ee9eac6356021136",
+        "media_url": "http://10.206.83.102:8989/uploads/audio/20201226/89/89e81c27cf89c246870f0db520a9b34f.mpga",
+        "created_at": "1622542321"
+    },
+    "case_024": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac63710dcdbe",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210126/a9/a910e6e1dd4db5d01ed3d976975cc28a.mp4",
+        "created_at": "1622542322"
+    },
+    "case_025": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac63592adb2c",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210128/15/15d91375b962651eaf1aa48902dcc3fc",
+        "created_at": "1622542322"
+    },
+    "case_026": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac63ab31ab74",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210126/5e/5ea9d08ff8f958304cc413f5f5c45a07.bin",
+        "created_at": "1622542322"
+    },
+    "case_027": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac638a5d08ac",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20201226/94/94f65cc19519817f682d254378a97835.pdf",
+        "created_at": "1622542322"
+    },
+    "case_028": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_029": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_030": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_031": {
+        "errcode": "210005",
+        "errmsg": "部门不存在或部门id有误"
+    },
+    "case_032": {
+        "errcode": "100002",
+        "errmsg": "参数错误"
+    },
+    "case_033": {
+        "errcode": "220013",
+        "errmsg": "用户不存在或用户id有误"
+    },
+    "case_034": {
+        "errcode": "100002",
+        "errmsg": "参数错误"
+    },
+    "case_035": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_036": {
+        "errcode": "100002",
+        "errmsg": "参数错误"
+    },
+    "case_037": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998539149"
+    },
+    "case_038": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_039": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "users": [
+            {
+                "name": "批量创建用户1",
+                "account": "piliangchuangjianyonghu1",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "dept": "上海研发部",
+                "pos": "boss",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553222",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998539150"
+            },
+            {
+                "name": "批量创建用户2",
+                "account": "piliangchuangjianyonghu2",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "dept": "上海研发部",
+                "pos": "总监",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553223",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998539151"
+            },
+            {
+                "name": "批量创建用户3",
+                "account": "piliangchuangjianyonghu3",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "dept": "上海研发部",
+                "pos": "经理",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553224",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998539152"
+            },
+            {
+                "name": "批量创建用户44",
+                "account": "piliangchuangjianyonghu44",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "dept": "上海研发部",
+                "pos": "员工",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553225",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998539153"
+            },
+            {
+                "name": "批量创建用户5",
+                "account": "piliangchuangjianyonghu5",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "dept": "上海研发部",
+                "pos": "员工",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "tel": "0215553226",
+                "mobile": "13012344321",
+                "result": "1",
+                "msg": "成功",
+                "uid": "1917616998539154"
+            }
+        ]
+    },
+    "case_040": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998539150",
+                "account": "piliangchuangjianyonghu1"
+            }
+        ]
+    },
+    "case_041": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "account": "piliangchuangjianyonghu1",
+                "name": "批量创建用户1",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "tel": "0215553222",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268654217",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268654217",
+                        "posId": "216",
+                        "order": "0",
+                        "posName": "boss"
+                    }
+                ],
+                "userid": "1917616998539150",
+                "extattr": [
+                    {
+                        "key": "dwaw",
+                        "val": "",
+                        "title": "啊哈我的"
+                    }
+                ],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu2",
+                "name": "批量创建用户2",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "tel": "0215553223",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268654217",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268654217",
+                        "posId": "217",
+                        "order": "0",
+                        "posName": "总监"
+                    }
+                ],
+                "userid": "1917616998539151",
+                "extattr": [
+                    {
+                        "key": "dwaw",
+                        "val": "",
+                        "title": "啊哈我的"
+                    }
+                ],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu3",
+                "name": "批量创建用户3",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "tel": "0215553224",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268654217",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268654217",
+                        "posId": "218",
+                        "order": "0",
+                        "posName": "经理"
+                    }
+                ],
+                "userid": "1917616998539152",
+                "extattr": [
+                    {
+                        "key": "dwaw",
+                        "val": "",
+                        "title": "啊哈我的"
+                    }
+                ],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu44",
+                "name": "批量创建用户44",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "tel": "0215553225",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268654217",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268654217",
+                        "posId": "219",
+                        "order": "0",
+                        "posName": "员工"
+                    }
+                ],
+                "userid": "1917616998539153",
+                "extattr": [
+                    {
+                        "key": "dwaw",
+                        "val": "",
+                        "title": "啊哈我的"
+                    }
+                ],
+                "avatarUrl": ""
+            },
+            {
+                "account": "piliangchuangjianyonghu5",
+                "name": "批量创建用户5",
+                "enName": "",
+                "gender": "1",
+                "sign": "任重⽽道远",
+                "email": "",
+                "avatar": "60b607f1ee9eac637a6eb678",
+                "tel": "0215553226",
+                "mobile": "13012344321",
+                "status": "1",
+                "deptData": [
+                    {
+                        "did": "268654217",
+                        "name": "上海研发部",
+                        "desp": "",
+                        "pid": "0",
+                        "order": "0",
+                        "has_child": "false",
+                        "sourceDid": ""
+                    }
+                ],
+                "roleId": "30",
+                "staffId": "",
+                "posData": [
+                    {
+                        "did": "268654217",
+                        "posId": "219",
+                        "order": "0",
+                        "posName": "员工"
+                    }
+                ],
+                "userid": "1917616998539154",
+                "extattr": [
+                    {
+                        "key": "dwaw",
+                        "val": "",
+                        "title": "啊哈我的"
+                    }
+                ],
+                "avatarUrl": ""
+            }
+        ]
+    },
+    "case_042": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_043": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "total": "0"
+    },
+    "case_044": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_045": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "5",
+        "pageCount": "1",
+        "nextPage": "1",
+        "datas": [
+            {
+                "did": "268649943",
+                "name": "群相关依赖部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654184",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654217",
+                "name": "上海研发部",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656338",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656524",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            }
+        ]
+    },
+    "case_046": {
+        "errcode": "210008",
+        "errmsg": "部门下有子部门或成员"
+    },
+    "case_047": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_048": {
+        "errcode": "100002",
+        "errmsg": "参数错误"
+    },
+    "case_049": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "test_00_1": {
+        "trans_id": "F147B6FDB7C55B31DDDF7A22A866CC42",
+        "err_code": "10000003",
+        "err_msg": "参数缺失",
+        "timestamp": "1622542333",
+        "time_cost": ""
+    },
+    "case_050": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268656531"
+    },
+    "case_051": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_052": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998539156"
+    },
+    "case_053": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "uid": "1917616998539157"
+    },
+    "case_054": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "groupid": "1917616998539158"
+    },
+    "case_055": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_056": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_057": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_058": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "groupid": "1917616998539158",
+            "name": "修改后的群聊名",
+            "hostUid": "1917616998539156",
+            "hostName": "我是群成员呀",
+            "count": "0"
+        }
+    },
+    "case_059": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_060": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_061": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_062": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_063": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_064": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_065": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_066": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "groupid": "1917616998539158",
+            "name": "修改后的群聊名",
+            "hostUid": "0",
+            "hostName": "",
+            "count": "3"
+        }
+    },
+    "case_067": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "0",
+                "type": "110"
+            },
+            {
+                "uid": "1917616998539156",
+                "type": "110"
+            },
+            {
+                "uid": "1917616998539157",
+                "type": "110"
+            }
+        ]
+    },
+    "case_068": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_069": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_070": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "groupid": "1917616998539158",
+            "name": "修改后的群聊名",
+            "hostUid": "0",
+            "hostName": "",
+            "count": "0"
+        }
+    },
+    "case_071": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_073": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998539156",
+                "account": "woshiqunchengyuanya",
+                "name": "我是群成员呀",
+                "enName": "lucky",
+                "gender": "0",
+                "sign": "刘哥好帅我要嫁给他",
+                "email": "",
+                "avatar": "",
+                "tel": "0215553222",
+                "mobile": "15000000000",
+                "status": "1",
+                "order": "3",
+                "orderTime": "1622542334",
+                "avatarUrl": ""
+            },
+            {
+                "uid": "1917616998539157",
+                "account": "woshierhaochengyuan",
+                "name": "我是二号成员",
+                "enName": "lucky",
+                "gender": "1",
+                "sign": "刘哥好帅我要嫁给他",
+                "email": "",
+                "avatar": "",
+                "tel": "0215553222",
+                "mobile": "15000000000",
+                "status": "1",
+                "order": "4",
+                "orderTime": "1622542335",
+                "avatarUrl": ""
+            }
+        ]
+    },
+    "case_074": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "totalCount": "1",
+        "datas": [
+            {
+                "groupid": "1917616998537413",
+                "name": "oo、qq1、qq2、q1",
+                "hostUid": "1917616998537401",
+                "hostName": "oo",
+                "count": "10"
+            }
+        ]
+    },
+    "case_075": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_076": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_077": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_078": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998539156",
+                "type": "110"
+            },
+            {
+                "uid": "1917616998539157",
+                "type": "110"
+            }
+        ]
+    },
+    "case_079": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_080": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998539156",
+                "type": "104"
+            },
+            {
+                "uid": "1917616998539157",
+                "type": "110"
+            }
+        ]
+    },
+    "case_081": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_082": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "uid": "1917616998539156",
+                "type": "104"
+            },
+            {
+                "uid": "1917616998539157",
+                "type": "110"
+            }
+        ]
+    },
+    "case_083": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_084": {
+        "errcode": "100002",
+        "errmsg": "参数错误"
+    },
+    "case_085": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_086": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_087": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "test_001": {
+        "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1622542344",
+        "time_cost": "0.033",
+        "datas": [
+            {
+                "master_name": "云管理员",
+                "master_token": "867ff123e798c66a2856f64ff7fa3b00",
+                "master_token_expire_time": "86400",
+                "addr_conf": {
+                    "web_client": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8888",
+                            "address": "http://10.206.83.102:8888"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9090",
+                            "address": "http://10.206.83.102:9090"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_go": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9899",
+                            "address": "http://10.206.83.102:9899"
+                        }
+                    ]
+                },
+                "inited": "1"
+            }
+        ]
+    },
+    "test_002": {
+        "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1622542345",
+        "time_cost": "1.053",
+        "datas": [
+            {
+                "cid": "1917616998539159",
+                "admin_account": "liugezhenshuai",
+                "admin_uid": "1917616998539160"
+            }
+        ]
+    },
+    "test_003": {
+        "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1622542346",
+        "time_cost": "0.392",
+        "datas": [
+            {
+                "access_token": "5088cfcba0c02dac",
+                "refresh_token": "150669616e02ab2f",
+                "uid": "1917616998539160",
+                "cid": "1917616998539159",
+                "corp_name": "刘程旭自动化测试",
+                "user_name": "liugezhenshuai",
+                "role_id": "5",
+                "manage_dids": [
+                    {
+                        "did": "0",
+                        "name": "刘程旭自动化测试"
+                    }
+                ],
+                "addr_conf": {
+                    "srv_conn": [
+                        "sshserver.91kook.cn:6000"
+                    ],
+                    "web_client": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_open": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8888",
+                            "address": "http://10.206.83.102:8888"
+                        }
+                    ],
+                    "srv_push": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9090",
+                            "address": "http://10.206.83.102:9090"
+                        }
+                    ],
+                    "web_fed": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "8282",
+                            "address": "http://10.206.83.102:8282"
+                        }
+                    ],
+                    "web_go": [
+                        {
+                            "scheme": "http",
+                            "host": "10.206.83.102",
+                            "port": "9899",
+                            "address": "http://10.206.83.102:9899"
+                        }
+                    ]
+                },
+                "addr_table": [
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    },
+                    {
+                        "addr_conf": {
+                            "relay_conn": [
+                                "10.206.83.102:20000"
+                            ],
+                            "web_go": [
+                                {
+                                    "address": "http://<COND_IP>:9899",
+                                    "scheme": "http",
+                                    "port": "9899",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_fed": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_push": [
+                                {
+                                    "address": "http://<COND_IP>:9090",
+                                    "scheme": "http",
+                                    "port": "9090",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_client": [
+                                {
+                                    "address": "http://<COND_IP>:8282",
+                                    "scheme": "http",
+                                    "port": "8282",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_open": [
+                                {
+                                    "address": "http://<COND_IP>:8888",
+                                    "scheme": "http",
+                                    "port": "8888",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_manage": [
+                                {
+                                    "port": "8787",
+                                    "address": "http://<COND_IP>:8787",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "web_file": [
+                                {
+                                    "port": "8989",
+                                    "address": "http://<COND_IP>:8989",
+                                    "scheme": "http",
+                                    "host": "<COND_IP>"
+                                }
+                            ],
+                            "srv_conn": []
+                        }
+                    }
+                ],
+                "dev_type": "7"
+            }
+        ]
+    },
+    "test_004": {
+        "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1622542346",
+        "time_cost": "0.626",
+        "datas": [
+            {
+                "uid": "1917616998539161"
+            }
+        ]
+    },
+    "test_005": {
+        "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1622542347",
+        "time_cost": "0.548",
+        "datas": [
+            {
+                "uid": "1917616998539162"
+            }
+        ]
+    },
+    "test_006": {
+        "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1622542348",
+        "time_cost": "0.377",
+        "datas": [
+            {
+                "did": "268656539"
+            }
+        ]
+    },
+    "test_007": {
+        "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+        "err_code": "0",
+        "err_msg": "成功",
+        "timestamp": "1622542348",
+        "time_cost": "0.629",
+        "datas": [
+            {
+                "uid": "1917616998539164"
+            }
+        ]
+    }
+}

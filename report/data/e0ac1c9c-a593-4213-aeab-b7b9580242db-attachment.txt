@@ -1,0 +1,14 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "totalCount": "1",
+    "datas": [
+        {
+            "groupid": "1917616998537413",
+            "name": "oo、qq1、qq2、q1",
+            "hostUid": "1917616998537401",
+            "hostName": "oo",
+            "count": "10"
+        }
+    ]
+}

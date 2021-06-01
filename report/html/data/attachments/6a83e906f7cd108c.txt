@@ -1,9 +1,0 @@
-{
-    "groupid": "",
-    "users": [
-        {
-            "uid": "null",
-            "type": "110"
-        }
-    ]
-}

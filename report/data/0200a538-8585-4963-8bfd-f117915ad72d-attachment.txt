@@ -1,0 +1,59 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "deptCount": "5",
+    "pageCount": "1",
+    "nextPage": "1",
+    "datas": [
+        {
+            "did": "268649943",
+            "name": "群相关依赖部门",
+            "desp": "",
+            "tel": "",
+            "pid": "0",
+            "order": "0",
+            "has_child": "false",
+            "child": "false"
+        },
+        {
+            "did": "268654184",
+            "name": "更新的部门",
+            "desp": "",
+            "tel": "",
+            "pid": "0",
+            "order": "0",
+            "has_child": "false",
+            "child": "false"
+        },
+        {
+            "did": "268654217",
+            "name": "上海研发部",
+            "desp": "",
+            "tel": "",
+            "pid": "0",
+            "order": "0",
+            "has_child": "false",
+            "child": "false"
+        },
+        {
+            "did": "268656338",
+            "name": "更新的部门",
+            "desp": "",
+            "tel": "",
+            "pid": "0",
+            "order": "0",
+            "has_child": "false",
+            "child": "false"
+        },
+        {
+            "did": "268656524",
+            "name": "更新的部门",
+            "desp": "",
+            "tel": "",
+            "pid": "0",
+            "order": "0",
+            "has_child": "false",
+            "child": "false"
+        }
+    ]
+}

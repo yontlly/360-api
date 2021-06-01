@@ -1,0 +1,1 @@
+"实际结果:获取access_token失败，或者access_token无效 = 预期结果:该应用未注册"

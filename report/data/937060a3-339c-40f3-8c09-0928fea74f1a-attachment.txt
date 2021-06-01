@@ -1,0 +1,102 @@
+{
+    "appid": "1917616998539179",
+    "access_token": "None",
+    "to_users": [
+        "1917616998539167",
+        "1917616998539168",
+        "1917616998539161",
+        "1917616998539162"
+    ],
+    "type": "attachment",
+    "message": {
+        "id": "594ccc6d20e01c077b5c9013",
+        "head": {
+            "text": "输入框的测试",
+            "bgcolor": "FF0000",
+            "tcolor": "FF0000"
+        },
+        "body": {
+            "title": "type类型为text",
+            "content": "可交互式消息",
+            "image": "60b607f1ee9eac637a6eb678"
+        },
+        "fields": [
+            {
+                "name": "单选框-单⾏⽂本框",
+                "input": {
+                    "type": "text",
+                    "childtype": 0,
+                    "name": "单选框-单⾏⽂本框",
+                    "text": "这是默认值",
+                    "hint": "单⾏⽂本框",
+                    "must": true,
+                    "expand": true
+                }
+            },
+            {
+                "name": "单选框-多⾏⽂本框",
+                "input": {
+                    "type": "text",
+                    "childtype": 1,
+                    "name": "单选框-多⾏⽂本框",
+                    "hint": "多⾏⽂本框",
+                    "must": true,
+                    "expand": false
+                }
+            },
+            {
+                "name": "",
+                "input": {
+                    "type": "text",
+                    "childtype": 1,
+                    "name": "单选框-多⾏⽂本框",
+                    "hint": "多⾏⽂本框",
+                    "must": true,
+                    "expand": true
+                }
+            },
+            {
+                "name": "单选框-数字⽂本框",
+                "input": {
+                    "type": "text",
+                    "childtype": 2,
+                    "hint": "数字⽂本框",
+                    "name": "单选框-数字⽂本框"
+                }
+            },
+            {
+                "name": "单选框-字符串⽂本框",
+                "input": {
+                    "type": "text",
+                    "childtype": 3,
+                    "name": "单选框-字符串⽂本框",
+                    "hint": "字符串⽂本框",
+                    "bold": true,
+                    "fontsize": 2,
+                    "color": "32373C",
+                    "regex": ""
+                }
+            }
+        ],
+        "action": [
+            {
+                "name": "confirm",
+                "value": "业务透传数据",
+                "text": "提交",
+                "color": "0F82F0",
+                "confirm": {
+                    "title": "确定提交吗",
+                    "content": "",
+                    "ok": "确定",
+                    "cancel": "取消"
+                }
+            },
+            {
+                "name": "cancel",
+                "value": "业务透传数据",
+                "text": "取消",
+                "color": "979CA4"
+            }
+        ]
+    }
+}

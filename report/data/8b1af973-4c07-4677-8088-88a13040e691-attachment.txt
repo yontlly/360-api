@@ -1,0 +1,19 @@
+{
+    "appid": "1917616998539175",
+    "subject": "超过9个附件",
+    "subtitle": "超过9个附件",
+    "cover": "60b607f1ee9eac637a6eb678",
+    "content": "这里只是发送公众号的测试内容",
+    "attachments": [
+        "60b607f2ee9eac63592adb2c",
+        "60b607f2ee9eac63ab31ab74",
+        "60b607f2ee9eac638a5d08ac",
+        "60b607f2ee9eac63592adb2c",
+        "60b607f2ee9eac63ab31ab74",
+        "60b607f2ee9eac638a5d08ac",
+        "60b607f2ee9eac63592adb2c",
+        "60b607f2ee9eac63ab31ab74",
+        "60b607f2ee9eac638a5d08ac",
+        "60b607f2ee9eac638a5d08ac"
+    ]
+}

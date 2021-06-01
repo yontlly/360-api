@@ -1,0 +1,201 @@
+{
+    "appid": "1917616998539179",
+    "access_token": "null",
+    "to_users": [
+        "1917616998539167",
+        "1917616998539168",
+        "1917616998539161",
+        "1917616998539162"
+    ],
+    "type": "attachment",
+    "message": {
+        "id": "594ccc6d20e01c077b5c9013",
+        "head": {
+            "text": "复合选择器的测试",
+            "bgcolor": "FF0000",
+            "tcolor": "FF0000"
+        },
+        "body": {
+            "title": "type类型为complexpicker",
+            "content": "可交互式消息",
+            "image": "60b607f1ee9eac637a6eb678"
+        },
+        "fields": [
+            {
+                "name": "复合选择器-选人",
+                "input": {
+                    "type": "complexpicker",
+                    "childtype": 0,
+                    "name": "复合选择器-选人",
+                    "complexpicker": {
+                        "user": [
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "dept": [
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "group": [
+                            "null",
+                            "null",
+                            "null"
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "复合选择器-选人选部门",
+                "input": {
+                    "type": "complexpicker",
+                    "childtype": 1,
+                    "name": "复合选择器-选人选部门",
+                    "complexpicker": {
+                        "user": [
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "dept": [
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "group": [
+                            "null",
+                            "null",
+                            "null"
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "复合选择器-选群",
+                "input": {
+                    "type": "complexpicker",
+                    "childtype": 2,
+                    "name": "复合选择器-选群",
+                    "complexpicker": {
+                        "user": [
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "dept": [
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "group": [
+                            "null",
+                            "null",
+                            "null"
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "复合选择器-选人选部门选群",
+                "input": {
+                    "type": "complexpicker",
+                    "childtype": 3,
+                    "name": "复合选择器-选人选部门选群",
+                    "complexpicker": {
+                        "user": [
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "dept": [
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "group": [
+                            "null",
+                            "null",
+                            "null"
+                        ]
+                    }
+                }
+            },
+            {
+                "name": "复合选择器-选自定义用户列表",
+                "input": {
+                    "type": "complexpicker",
+                    "childtype": 4,
+                    "name": "复合选择器-选自定义用户列表",
+                    "complexpicker": {
+                        "user": [
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "dept": [
+                            "null",
+                            "null",
+                            "null"
+                        ],
+                        "group": [
+                            "null",
+                            "null",
+                            "null"
+                        ]
+                    }
+                }
+            }
+        ],
+        "action": [
+            {
+                "name": "confirm",
+                "value": "业务透传数据",
+                "text": "提交",
+                "color": "0F82F0",
+                "confirm": {
+                    "title": "确定提交吗",
+                    "content": "",
+                    "ok": "确定",
+                    "cancel": "取消"
+                }
+            },
+            {
+                "name": "cancel",
+                "value": "业务透传数据",
+                "text": "取消",
+                "color": "979CA4"
+            }
+        ]
+    }
+}

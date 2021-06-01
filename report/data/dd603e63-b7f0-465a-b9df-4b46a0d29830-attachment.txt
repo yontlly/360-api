@@ -1,0 +1,11 @@
+{
+    "appid": "1917616998539175",
+    "subject": "发送公众号-带附件,url",
+    "subtitle": "发送公众号-带附件,url",
+    "cover": "60b607f1ee9eac637a6eb678",
+    "url": "https://www.baidu.com/",
+    "attachments": [
+        "60b607f2ee9eac63592adb2c",
+        "60b607f2ee9eac63ab31ab74"
+    ]
+}

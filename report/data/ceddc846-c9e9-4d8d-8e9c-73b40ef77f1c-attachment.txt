@@ -1,0 +1,8 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "type": "file",
+    "media_id": "60b607f2ee9eac63ab31ab74",
+    "media_url": "http://10.206.83.102:8989/uploads/file/20210126/5e/5ea9d08ff8f958304cc413f5f5c45a07.bin",
+    "created_at": "1622542322"
+}

@@ -1,0 +1,97 @@
+{
+    "appid": "1917616998539177",
+    "access_token": "null",
+    "to_users": [
+        "1917616998539167",
+        "1917616998539168",
+        "1917616998539161",
+        "1917616998539162"
+    ],
+    "type": "attachment",
+    "msg_status": "1",
+    "message": {
+        "id": "594ccc6d20e01c077b5c9013",
+        "head": {
+            "text": "文件控件的测试",
+            "bgcolor": "FF0000",
+            "tcolor": "FF0000"
+        },
+        "body": {
+            "title": "type类型为filepicker",
+            "content": "可交互式消息",
+            "image": "60b607f1ee9eac637a6eb678"
+        },
+        "fields": [
+            {
+                "name": "文件控件-excel",
+                "input": {
+                    "type": "filepicker",
+                    "name": "文件控件",
+                    "filepicker": [
+                        {
+                            "id": "60b607f2ee9eac63ab31ab74",
+                            "name": "富文本.xls",
+                            "size": 25600
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "文件控件-word",
+                "input": {
+                    "type": "filepicker",
+                    "name": "文件控件",
+                    "filepicker": [
+                        {
+                            "id": "60b607f2ee9eac638a5d08ac",
+                            "name": "敏捷项目 - 测试流程规范.docx",
+                            "size": 14521
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "文件控件-pdf",
+                "input": {
+                    "type": "filepicker",
+                    "name": "文件控件",
+                    "filepicker": [
+                        {
+                            "id": "null",
+                            "name": "敏捷项目 - 测试流程规范.pdf",
+                            "size": 118655
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "文件控件-默认状态",
+                "input": {
+                    "type": "filepicker",
+                    "name": "文件控件",
+                    "filepicker": []
+                }
+            }
+        ],
+        "action": [
+            {
+                "name": "confirm",
+                "value": "业务透传数据",
+                "text": "提交",
+                "color": "0F82F0",
+                "confirm": {
+                    "title": "确定提交吗",
+                    "content": "",
+                    "ok": "确定",
+                    "cancel": "取消"
+                }
+            },
+            {
+                "name": "cancel",
+                "value": "业务透传数据",
+                "text": "取消",
+                "color": "979CA4"
+            }
+        ]
+    }
+}

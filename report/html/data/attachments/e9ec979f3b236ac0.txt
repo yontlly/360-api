@@ -1,1 +1,0 @@
-"实际结果:everything is succeed. = 预期结果:everything is succeed."

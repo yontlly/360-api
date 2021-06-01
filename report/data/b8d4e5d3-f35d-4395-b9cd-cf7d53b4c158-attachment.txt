@@ -1,0 +1,232 @@
+{
+    "case_001": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "NAbE8g0z3AFN9zzz2fwCLlUbnTzZlJYt"
+    },
+    "case_002": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_003": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "access_token": "BPqSdtwyLtMe0h9zGlkFyHVwO4OFArnf"
+    },
+    "case_004": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_005": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": {
+            "cid": "1917616998539146",
+            "admin_account": "kaifang",
+            "admin_uid": "1917616998539147"
+        }
+    },
+    "case_006": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_007": {
+        "errcode": "10000003",
+        "errmsg": "未知错误"
+    },
+    "case_008": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": [
+            {
+                "key": "dwaw",
+                "title": "啊哈我的"
+            }
+        ]
+    },
+    "case_009": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268656524"
+    },
+    "case_010": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_011": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_012": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_013": {
+        "errcode": "0",
+        "errmsg": "成功"
+    },
+    "case_014": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_015": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_016": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "datas": []
+    },
+    "case_017": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_018": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "0",
+        "pageCount": "0",
+        "nextPage": "0",
+        "datas": []
+    },
+    "case_019": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "deptCount": "5",
+        "pageCount": "1",
+        "nextPage": "1",
+        "datas": [
+            {
+                "did": "268649943",
+                "name": "群相关依赖部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654184",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268654217",
+                "name": "上海研发部",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656338",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            },
+            {
+                "did": "268656524",
+                "name": "更新的部门",
+                "desp": "",
+                "tel": "",
+                "pid": "0",
+                "order": "0",
+                "has_child": "false",
+                "child": "false"
+            }
+        ]
+    },
+    "case_020": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "did": "268656524",
+        "name": "更新的部门",
+        "desp": "",
+        "tel": "",
+        "pid": "0",
+        "order": "0",
+        "has_child": "false",
+        "dept_group": "false"
+    },
+    "case_021": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_022": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "image",
+        "media_id": "60b607f1ee9eac637a6eb678",
+        "media_url": "http://10.206.83.102:8989/uploads/image/20210519/d3/d31318766f555357662bde133cbf5c11.jpeg",
+        "created_at": "1622542321"
+    },
+    "case_023": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "audio",
+        "media_id": "60b607f1ee9eac6356021136",
+        "media_url": "http://10.206.83.102:8989/uploads/audio/20201226/89/89e81c27cf89c246870f0db520a9b34f.mpga",
+        "created_at": "1622542321"
+    },
+    "case_024": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac63710dcdbe",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210126/a9/a910e6e1dd4db5d01ed3d976975cc28a.mp4",
+        "created_at": "1622542322"
+    },
+    "case_025": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac63592adb2c",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210128/15/15d91375b962651eaf1aa48902dcc3fc",
+        "created_at": "1622542322"
+    },
+    "case_026": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac63ab31ab74",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20210126/5e/5ea9d08ff8f958304cc413f5f5c45a07.bin",
+        "created_at": "1622542322"
+    },
+    "case_027": {
+        "errcode": "0",
+        "errmsg": "成功",
+        "type": "file",
+        "media_id": "60b607f2ee9eac638a5d08ac",
+        "media_url": "http://10.206.83.102:8989/uploads/file/20201226/94/94f65cc19519817f682d254378a97835.pdf",
+        "created_at": "1622542322"
+    },
+    "case_028": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_029": {
+        "errcode": "220001",
+        "errmsg": "用户帐号已存在"
+    },
+    "case_030": {
+        "errcode": "100001",
+        "errmsg": "参数缺失"
+    },
+    "case_031": {
+        "errcode": "210005",
+        "errmsg": "部门不存在或部门id有误"
+    }
+}

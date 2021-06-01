@@ -1,8 +1,0 @@
-{
-    "errcode": "0",
-    "errmsg": "成功",
-    "deptCount": "0",
-    "pageCount": "0",
-    "nextPage": "0",
-    "datas": []
-}

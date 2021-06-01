@@ -1,0 +1,10 @@
+{
+    "datas": {
+        "rid": "null",
+        "account": "pytest_test1",
+        "title": "修改日程-简单日程2-修改仅参与人可见",
+        "repeat": "5",
+        "privacy": "0",
+        "remark": "修改日程-简单日程2-修改仅参与人可见"
+    }
+}

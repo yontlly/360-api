@@ -1,0 +1,15 @@
+{
+    "name": "我是群主呀",
+    "department": [
+        {
+            "did": "268656531",
+            "order": "2",
+            "posName": "ceo"
+        }
+    ],
+    "gender": "1",
+    "sign": "刘哥好帅我要嫁给他",
+    "enName": "lucky",
+    "tel": "0215553222",
+    "mobile": "15000000000"
+}

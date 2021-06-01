@@ -1,0 +1,8 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "type": "audio",
+    "media_id": "60b607f1ee9eac6356021136",
+    "media_url": "http://10.206.83.102:8989/uploads/audio/20201226/89/89e81c27cf89c246870f0db520a9b34f.mpga",
+    "created_at": "1622542321"
+}

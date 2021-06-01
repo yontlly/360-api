@@ -1,0 +1,23 @@
+{
+    "trans_id": "82DEF864E2BDE34BBBDA58FA0B73E9C7",
+    "access_token": "5088cfcba0c02dac",
+    "cid": "1917616998539159",
+    "client_ver": "3.1.0",
+    "dev_type": "7",
+    "operator_uid": "1917616998539160",
+    "app_id": "1917616998539173",
+    "icon_fid": "",
+    "name": "应用3-设置卡片顶部",
+    "tpl": "1",
+    "url_mobile": "",
+    "page_size": "7",
+    "mobile_page_size": "5",
+    "head": "1",
+    "head_events": [
+        {
+            "icon": "forward",
+            "url": "https://www.baidu.com/",
+            "action": "forward"
+        }
+    ]
+}

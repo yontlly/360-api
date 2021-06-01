@@ -1,0 +1,5 @@
+{
+    "admin_name": "kaifang",
+    "corp_name": "开放平台测试_创建组织",
+    "account_number": "100"
+}

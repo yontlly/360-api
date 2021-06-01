@@ -1,0 +1,9 @@
+{
+    "errcode": "0",
+    "errmsg": "成功",
+    "datas": {
+        "cid": "1917616998539146",
+        "admin_account": "kaifang",
+        "admin_uid": "1917616998539147"
+    }
+}

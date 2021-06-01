@@ -58,10 +58,10 @@ def rep_expr(content: str, data: dict, expr: str = '&(.*?)&') -> str:
     # 解决一些借口需要传uuid的问题
     for s in re.findall('UUID', content):
         content = content.replace(f'UUID',str(uuid.uuid1()))
-    for t in re.findall('start_time', content):
-        content = content.replace(f'start_time',str(time.time()+50000))
-    for t1 in re.findall('end_time', content):
-        content = content.replace(f'end_time',str(time.time()+555550))
+    for t in re.findall('s_time', content):
+        content = content.replace(f's_time',str(int(time.time()+50000)))
+    for t1 in re.findall('e_time', content):
+        content = content.replace(f'e_time',str(int(time.time()+555550)))
     return content
 
 # {

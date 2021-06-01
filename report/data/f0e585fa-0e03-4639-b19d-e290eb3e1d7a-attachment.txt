@@ -1,0 +1,6 @@
+{
+    "channelid": "null",
+    "name": "修改后的频道1",
+    "desc": "修改后的频道1-描述",
+    "logo_media_id": "60b607f1ee9eac637a6eb678"
+}

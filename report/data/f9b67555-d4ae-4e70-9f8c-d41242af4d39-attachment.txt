@@ -1,0 +1,9 @@
+{
+    "name": "可交互式测试群-群1",
+    "did": "null",
+    "uids": [
+        "null",
+        "null",
+        "null"
+    ]
+}

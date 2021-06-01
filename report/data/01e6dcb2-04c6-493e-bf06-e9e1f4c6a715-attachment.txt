@@ -1,0 +1,7 @@
+{
+    "errcode": "500002",
+    "errmsg": "消息体格式有误",
+    "msg.errs": [
+        "fields[0].input.userpicker -> There are no duplicates allowed in the array"
+    ]
+}
