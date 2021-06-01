@@ -1,9 +1,0 @@
-{
-    "login_type": "1",
-    "account": "pytest_test3",
-    "client_ver": "5.0.0",
-    "dev_type": "5",
-    "encrypt_type": "1",
-    "encrypt_password": "11111111",
-    "login_away_type": "1"
-}

@@ -1,8 +1,0 @@
-{
-    "trans_id": "null",
-    "access_token": "null",
-    "uid": "null",
-    "cid": "null",
-    "client_ver": "5.0.0",
-    "dev_type": "5"
-}

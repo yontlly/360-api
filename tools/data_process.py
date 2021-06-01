@@ -48,6 +48,10 @@ class DataProcess:
             return cls.header
 
     @classmethod
+    def dir_base(cls,fileName,filePath='data/file'):
+        return os.path.join(os.path.abspath(os.path.dirname(os.path.dirname(__file__))),filePath,fileName)
+
+    @classmethod
     def handler_files(cls, file_obj: str) -> object:
         """file对象处理方法
         :param file_obj: 上传文件使用，格式：接口中文件参数的名称:"文件路径地址"/["文件地址1", "文件地址2"]
@@ -60,10 +64,10 @@ class DataProcess:
             if isinstance(v, list):
                 files = []
                 for path in v:
-                    files.append((k, (open(path, 'rb'))))
+                    files.append((k, (open(cls.dir_base(path), 'rb'))))
             else:
                 # 单文件上传
-                files = {k: open(v, 'rb')}
+                files = {k: open(cls.dir_base(v), 'rb')}
         return files
 
     @classmethod

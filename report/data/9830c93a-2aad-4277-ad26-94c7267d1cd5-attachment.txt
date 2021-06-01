@@ -1,4 +1,0 @@
-{
-    "errcode": "200002",
-    "errmsg": "不合法的corpid或corpsecret"
-}
